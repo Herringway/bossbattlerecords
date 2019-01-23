@@ -1,4 +1,307 @@
 ---
+- Boss: YYY
+  Data: 2002-09-09
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: Boo Cuz
+  Data: 2004-01-05
+  Result: victory
+  Ref: H_Cuz
+- Boss: Trance KtR & Trance Dan
+  Data: 2004-01-12
+  Result: victory
+  Ref: H_Cuz
+- Boss: Llednar
+  Result: victory
+  Ref: H_Cuz
+- Boss: SuparKlan
+  Result: defeat
+  Ref: H_Cuz
+- Boss: Squid Thing
+  Data: 2004-02-02
+  Result: victory
+  Ref: H_Cuz
+- Boss: Final Cackletta
+  Data: 2004-02-09
+  Result: victory
+  Ref: H_Cuz
+- Boss: Trash Golem
+  Data: 2004-02-16
+  Result: victory
+  Ref: H_Cuz
+- Boss: Bob-omb Brigade
+  Data: 2004-02-23
+  Result: victory
+  Ref: H_Cuz
+  Participants:
+    - Canadian Yosheh
+    - Aster
+    - Cyber Black Yoshi
+- Boss: Tutankoopa
+  Data: 2004-02-24
+  Result: defeat
+  Ref: H_Cuz
+- Boss: Tubba Blubba
+  Data: 2004-03-01
+  Result: victory
+  Participants:
+    - Aster
+    - The Silent Strider
+    - Ben-San
+  Ref: H_Cuz
+- Boss: Straw Hat Pirates
+  Data: 2004-03-03
+  Result: defeat
+  Participants:
+    - Canadian Yosheh
+    - Ben-San
+    - Sean Kelly
+    - The Silent Strider
+    - NekoIncardine
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
+- Boss: Wario
+  Data: 2004-03-08
+  Result: victory
+  Participants:
+    - EchoAlbarn
+    - MechaCrash
+    - The Silent Strider
+    - Ben-San
+    - Carter
+    - Aster
+    - Sean Kelly
+    - Canadian Yosheh
+    - SSLRranma
+    - Klawkat
+  Ref: H_Cuz
+- Boss: The Big Boo & Birdo
+  Data: 2004-03-15
+  Result: victory
+  Participants:
+    - Eiviiaru
+    - MechaCrash
+    - The Silent Strider
+    - Ben-San
+    - Dan
+    - Aster
+    - Will
+    - UDX
+    - Cyber Black Yoshi
+    - Klawkat
+  Ref: H_Cuz
+- Boss: Cackletta, Fawful, Popple & Queen Bean
+  Data: 2004-03-17
+  Result: victory
+  Participants:
+    - Eiviiaru
+    - Carter
+    - UDX
+    - Cyber Black Yoshi
+    - Will
+    - Aster
+    - MechaCrash
+    - The Silent Strider
+    - Dan
+    - Canadian Yosheh
+- Boss: Bowser's Kastle Mini-Event
+  Data: 2004-03-22
+  Result: victory
+  Participants:
+    - The Silent Strider
+    - SSLRranma
+    - Cyber Black Yoshi
+    - Carter
+    - Ben-San
+    - ErekChee
+    - MechaCrash
+    - Aster
+    - UDX
+    - Klawkat
+    - Canadian Yosheh
+  Ref: H_Cuz
+- Boss: Koopalings
+  Data: 2004-03-24
+  Result: victory
+  Ref: H_Cuz
+- Boss: Kamek & Kammy
+  Data: 2004-03-29
+  Result: bombed
+  Participants:
+    - SSLRranma
+    - UDX
+    - Cyber Black Yoshi
+    - MechaCrash
+    - Ben-San
+    - Klawkat
+    - Eiviiaru
+    - Will
+    - The Silent Strider
+    - Aster
+  Ref: H_Cuz
+- Boss: Evil Mario Bros
+  Data: 2004-03-31
+  Result: victory
+  Ref: H_Cuz
+- Boss: Bowser
+  Data: 2004-04-07
+  Result: victory
+  Ref: H_Cuz
+- Boss: The 8 EVALS
+  Data: 2004-04-14
+  Result: tie
+  Ref: H_Cuz
+- Boss: Blue Magic Session
+  Data: 2004-04-19
+  Result: completed
+  Participants:
+    - SSLRranma
+    - Cyber Black Yoshi
+    - Klawkat
+    - MechaCrash
+    - Carter
+    - ErekChee
+    - Canadian Yosheh
+    - Ben-San
+    - UDX
+    - Neo-Kamek
+    - NekoIncardine
+  Ref: H_Cuz
+- Boss: Kamek and Kammy Strike Back
+  Data: 2004-04-21
+  Result: bombed
+  Participants:
+    - UDX
+    - Klawkat
+  Ref: H_Cuz
+- Boss: Many Faces of MegaMan
+  Data: 2004-04-27
+  Result: victory
+  Participants:
+    - Cyber Black Yoshi
+    - Canadian Yosheh
+    - Will
+    - UDX
+    - Klawkat
+    - SSLRranma
+    - Aster
+    - Sean Kelly
+    - EchoAlbarn
+  Ref: H_Cuz
+- Boss: MegaMan.EXE Style Change Extravaganza
+  Data: 2004-05-03
+  Result: defeat
+  Participants:
+    - EchoAlbarn
+    - MechaCrash
+    - Canadian Yosheh
+    - SSLRranma
+    - Cyber Black Yoshi
+    - J-Boogie
+    - Will
+    - Klawkat
+  Ref: H_Cuz
+- Boss: ATHF Villains
+  Data: 2004-05-10
+  Result: victory
+  Participants:
+    - NekoIncardine
+    - Cyber Black Yoshi
+    - SSLRranma
+    - Canadian Yosheh
+    - Klawkat
+    - J-Boogie
+    - MechaCrash
+  Ref: H_Cuz
+- Boss: Mooninites rematch
+  Data: 2004-05-17
+  Result: victory
+  Participants:
+    - Atom
+    - Cyber Black Yoshi
+    - Will
+    - Canadian Yosheh
+    - NekoIncardine
+    - SSLRranma
+    - Aster
+    - UDX
+  Ref: H_Cuz
+- Boss: The Universal Remote
+  Data: 2004-05-19
+  Participants:
+    - Tizzy
+    - Cyber Black Yoshi
+    - Ben-San
+    - MechaCrash
+    - Carter
+    - J-Boogie
+    - NekoIncardine
+    - UDX
+    - Klawkat
+    - SSLRranma
+  Ref: H_Cuz
+  Result: victory
+- Boss: The Outlaws
+  Data: 2004-05-24
+  Result: defeat
+  Participants:
+    - Cyber Black Yoshi
+    - NekoIncardine
+    - Will
+    - SSLRranma
+    - Ben-San
+    - Dan
+    - MechaCrash
+    - Klawkat
+    - Canadian Yosheh
+  Ref: H_Cuz
+- Boss: The Outlaws (rematch)
+  Data: 2004-05-24
+  Result: victory
+  Participants:
+    - Cyber Black Yoshi
+    - NekoIncardine
+    - TIASIAN
+    - SSLRranma
+    - Ben-San
+    - Dan
+    - MechaCrash
+    - J-Boogie
+    - Canadian Yosheh
+  Ref: H_Cuz
+- Boss: Monday-Tuesday-Wednesday-Thursday-Friday-Saturday-Sunday
+  Data: 2004-05-31
+  Result: victory
+  Participants:
+    - Ben-San
+    - AVR
+    - Klawkat
+  Ref: H_Cuz
+- Boss: Super Rune Knight Falco
+  Data: 2004-06-07
+  Result: victory
+  Participants:
+    - Canadian Yosheh
+    - SSLRranma
+  Ref: H_Cuz
+- Boss: Super Summoner Golbez
+  Data: 2004-06-09
+  Result: victory
+  Participants:
+    - Canadian Yosheh
+    - Cyber Black Yoshi
+    - NekoIncardine
+    - UDX
+    - Ben-San
+    - Carter
+    - Will
+    - SSLRranma
+    - Aster
+    - Klawkat
+  Ref: H_Cuz
 - Boss: ShadeMan.EXE & LaserMan.EXE
   Data: 2005-01-04
   Result: victory
