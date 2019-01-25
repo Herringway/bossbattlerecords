@@ -11,18 +11,6 @@
   Data: 2004-01-05
   Result: defeat
   Ref: Neo-Kamek
-- Boss: Giant Mecha Killer Bee
-  Data: 2004-06-17
-  Result: victory
-  Ref: Neo-Kamek
-- Boss: The Turks
-  Data: 2004-06-20
-  Result: unknown
-  Ref: Neo-Kamek
-- Boss: Mystery Boss
-  Data: 2004-06-22
-  Result: victory
-  Ref: Neo-Kamek
 - Boss: Boo Cuz
   Data: 2004-01-05
   Result: victory
@@ -344,6 +332,14 @@
     - Unknown
     - Unknown
   Ref: H_Cuz
+- Boss: Giant Mecha Killer Bee
+  Data: 2004-06-17
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: The Turks
+  Data: 2004-06-20
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Protect Peach
   Data: 2004-06-21
   Result: victory
@@ -359,6 +355,22 @@
     - SSLRranma
     - Klawkat
   Ref: H_Cuz
+- Boss: Mystery Boss
+  Data: 2004-06-22
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: RGB Color Wheel, the RCP Shard, and the Unterminated String Constant
+  Data: 2004-06-24
+  Result: defeat
+  Ref: Neo-Kamek
+- Boss: The Turks (rematch)
+  Data: 2004-06-29
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Magikoopas Mela, Garn, and Rikana
+  Data: 2004-07-06
+  Result: defeat
+  Ref: Neo-Kamek
 - Boss: ShadeMan.EXE & LaserMan.EXE
   Data: 2005-01-04
   Result: victory
