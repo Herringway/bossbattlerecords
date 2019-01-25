@@ -359,6 +359,29 @@
   Data: 2004-06-22
   Result: victory
   Ref: Neo-Kamek
+- Boss: Odin
+  Data: 2004-06-23
+  Result: victory
+  Participants:
+    - SSLRranma
+    - Canadian Yosheh
+    - MechaCrash
+  Ref: H_Cuz
+- Boss: Timer Mini-Event
+  Data: 2004-06-28
+  Result: bombed
+  Participants:
+    - NekoIncardine
+    - Cyber Black Yoshi
+    - Ben-San
+    - SSLRranma
+    - Canadian Yosheh
+    - Carter
+    - Klawkat
+    - ManMonk
+    - AVR
+    - MechaCrash
+  Ref: H_Cuz
 - Boss: RGB Color Wheel, the RCP Shard, and the Unterminated String Constant
   Data: 2004-06-24
   Result: defeat
@@ -366,11 +389,89 @@
 - Boss: The Turks (rematch)
   Data: 2004-06-29
   Result: victory
+  Participants:
+    - H_Cuz
   Ref: Neo-Kamek
+- Boss: X-Heroes
+  Data: 2004-06-30
+  Result: defeat
+  Participants:
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
+- Boss: MagicMan.EXE (Retro)
+  Data: 2004-07-01
+  Result: victory
+  Participants:
+    - Atom
+    - MechaCrash
+    - Cyber Black Yoshi
+    - Will
+    - Xyzzy
+  Ref: H_Cuz
+- Boss: Trash Golem V2
+  Data: 2004-07-05
+  Result: bombed
+  Participants:
+    - MechaCrash
+    - Ben-San
+    - KlawKat
+    - Xyzzy
+    - Atom
+    - Neo-Kamek
+    - Dan
+    - Cyber Black Yoshi
+    - Canadian Yosheh
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Magikoopas Mela, Garn, and Rikana
   Data: 2004-07-06
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Protect Suicidal Peach
+  Data: 2004-07-07
+  Result: victory
+  Participants:
+    - AVR
+    - Carter
+    - Xyzzy
+    - MechaCrash
+    - Cyber Black Yoshi
+    - Canadian Yosheh
+    - UDX
+    - Ben-San
+    - Dan
+  Ref: H_Cuz
+- Boss: 750 Life Man
+  Data: 2004-07-08
+  Result: defeat
+  Ref: Neo-Kamek
+- Boss: Peach Mini-Event
+  Data: 2004-07-08
+  Result: defeat
+  Ref: Neo-Kamek
+- Boss: Duke the Fraction Satan
+  Data: 2004-07-13
+  Result: victory
+  Participants:
+    - AVR
+    - SSLRranma
+    - Cyber Black Yoshi
+    - ManMonk
+    - MechaCrash
+    - Ben-San
+    - Kim
+    - Dan
+    - UDX
+    - Xyzzy
+  Ref: H_Cuz
 - Boss: ShadeMan.EXE & LaserMan.EXE
   Data: 2005-01-04
   Result: victory
