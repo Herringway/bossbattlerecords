@@ -3,6 +3,54 @@
   Data: 2002-09-09
   Result: unknown
   Ref: Neo-Kamek
+- Boss: EarthBound Heroes
+  Data: 2003-01-07
+  Result: defeat
+  Ref: H_Cuz
+- Boss: Master Hand and Crazy Hand
+  Data: 2003-01-26
+  Result: defeat
+  Ref: H_Cuz
+- Boss: Meta-Ridley
+  Data: 2003-02-11
+  Result: victory
+  Ref: H_Cuz
+- Boss: Quale
+  Data: 2003-02-15
+  Result: victory
+  Ref: H_Cuz
+- Boss: Hades
+  Data: 2003-02-15
+  Result: victory
+  Ref: H_Cuz
+- Boss: Generic Boss Battle
+  Data: 2003-03-06
+  Result: defeat
+  Ref: H_Cuz
+- Boss: Yaridovich
+  Data: 2003-03-18
+  Result: victory
+  Ref: H_Cuz
+- Boss: Hazard Bar
+  Data: 2003-03-22
+  Result: victory
+  Participants:
+    - Tizzy
+    - NekoIncardine
+    - UDX
+    - Kim
+    - Carter
+  Ref: H_Cuz
+- Boss: Robo-Kys
+  Data: 2003-04-10
+  Result: victory
+  Participants:
+    - TarenWanderer
+    - Carter
+    - UDX
+    - Ben-San
+    - The Silent Strider
+  Ref: H_Cuz
 - Boss: Haz Ketchum and Surgeachu
   Data: 2003-12-11
   Result: victory
