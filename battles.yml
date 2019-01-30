@@ -3192,42 +3192,114 @@
   Date: 2010-04-30
   Result: victory
   Ref: Misty
+- Boss: "Cardcaptor Guardian: Kerberos/Yue"
+  Date: 2010-05-04
+  Result: defeat
+  Ref: Neo-Kamek
+- Boss: "Onion Knight Guardian: Onion Knight"
+  Date: 2010-05-11
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: "Cardcaptor Guardian: Kerberos/Yue (rematch)"
+  Date: 2010-05-11
+  Result: defeat
+  Ref: Neo-Kamek
 - Boss: Missingno
   Date: 2010-05-15
   Result: victory
   Ref: Misty
+- Boss: "Mad Scientist Guardian: Professor Utonium"
+  Date: 2010-05-18
+  Result: bombed
+  Ref: Neo-Kamek
+- Boss: "Sprinter Guardian: Quick Man"
+  Date: 2010-05-19
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: "Prinny Guardian: Pringer X"
+  Date: 2010-05-25
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Jinzo
   Date: 2010-05-28
   Result: defeat
   Ref: Misty
+- Boss: "Mad Scientist Guardian: Professor Utonium (rematch)"
+  Date: 2010-06-01
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Rotom
   Date: 2010-06-04
   Result: victory
   Ref: Misty
+- Boss: "Sailor Soldier Guardian: Sailor Soldiers"
+  Date: 2010-06-08
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Surge
   Date: 2010-06-11
   Result: victory
   Ref: Misty
+- Boss: "Cardcaptor Guardian: Kerberos/Yue (rematch 2)"
+  Date: 2010-06-15
+  Result: bombed
+  Ref: Neo-Kamek
+- Boss: NK's Pokemon Team
+  Date: 2010-06-22
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Big Boo
   Date: 2010-06-25
   Result: defeat
   Ref: Misty
+- Boss: "Cardcaptor Guardian: Kerberos/Yue (rematch 3)"
+  Date: 2010-06-29
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Marilith (original-ish)
   Date: 2010-07-02
   Result: victory
   Ref: Misty
+- Boss: Dark Sun - Mike J
+  Date: 2010-07-06
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Luke
   Date: 2010-07-09
   Result: defeat
   Ref: Misty
+- Boss: Ky Kiske
+  Date: 2010-07-13
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Fubugrass (Scrabble)
+  Date: 2010-07-14
+  Result: bombed
+  Ref: Neo-Kamek
 - Boss: Serene
   Date: 2010-07-16
   Result: defeat
   Ref: Misty
+- Boss: Fubugrass (Scrabble) (rematch)
+  Date: 2010-07-20
+  Result: victory
+  Ref: Neo-Kam
+- Boss: Decemberween in July
+  Date: 2010-07-20
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: PiX
+  Date: 2010-07-27
+  Result: cancelled
+  Ref: Neo-Kamek
 - Boss: Phantom (Devil May Cry)
   Date: 2010-07-30
   Result: bombed
   Ref: Misty
+- Boss: Suicune
+  Date: 2010-08-03
+  Result: bombed
+  Ref: Neo-Kamek
 - Boss: Phantom (Devil May Cry) (rematch)
   Date: 2010-08-06
   Result: victory
@@ -3236,14 +3308,26 @@
   Date: 2010-08-07
   Result: victory
   Ref: Varna
+- Boss: PiX
+  Date: 2010-08-10
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Doppelganger (Ragnarok Online)
   Date: 2010-08-14
   Result: unknown
   Ref: Varna
+- Boss: Professor Chaos and General Disarray (Job Class Chaos)
+  Date: 2010-08-17
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Cal
   Date: 2010-08-21
   Result: completed
   Ref: Varna
+- Boss: Bowser & Kamek
+  Date: 2010-08-24
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Culex
   Date: 2010-08-27
   Result: defeat
@@ -3252,6 +3336,10 @@
   Date: 2010-08-28
   Result: completed
   Ref: Varna
+- Boss: NORG
+  Date: 2010-08-31
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Neo-Arcadian Army (rematch)
   Date: 2010-09-04
   Result: completed
@@ -3287,6 +3375,10 @@
     - Meta
     - Aurida
   Ref: Kafei
+- Boss: Gato Mk2
+  Date: 2010-09-21
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Al Mualim
   Date: 2010-09-25
   Result: defeat
@@ -3303,6 +3395,10 @@
   Date: 2010-10-02
   Result: victory
   Ref: Varna
+- Boss: SurgeDX
+  Date: 2010-10-05
+  Result: bombed
+  Ref: Neo-Kamek
 - Boss: Tutankoopa
   Date: 2010-10-08
   Result: victory
@@ -3311,6 +3407,10 @@
   Date: 2010-10-09
   Result: victory
   Ref: Varna
+- Boss: SurgeDX (rematch)
+  Date: 2010-10-12
+  Result: victory
+  Ref: Neo-Kam
 - Boss: Safer Sephiroth
   Date: 2010-10-15
   Result: defeat
@@ -3327,6 +3427,10 @@
   Date: 2010-10-23
   Result: victory
   Ref: Varna
+- Boss: Snorlax?
+  Date: 2010-10-26
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Craft (Mega Man Zero 4)
   Date: 2010-10-28
   Result: defeat
@@ -3343,6 +3447,10 @@
   Date: 2010-11-04
   Result: victory
   Ref: Varna
+- Boss: Global Warming
+  Date: 2010-11-09
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Facility Exploration, Artemis and Asura
   Date: 2010-11-11
   Result: victory
@@ -3355,6 +3463,10 @@
   Date: 2010-11-13
   Result: victory
   Ref: Varna
+- Boss: Yaridovich
+  Date: 2010-11-16
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Cadic
   Date: 2010-11-18
   Result: victory
@@ -3374,6 +3486,10 @@
   Date: 2010-11-19
   Result: victory
   Ref: Misty
+- Boss: Mewtwo
+  Date: 2010-11-23
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Diablo
   Date: 2010-11-27
   Result: victory
