@@ -1435,10 +1435,30 @@
   Data: 2005-12-28
   Result: victory
   Ref: H_Cuz
+- Boss: Laharl, Etna, and Flonne
+  Date: 2005-12-29
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: Bowyer
+  Date: 2006-01-03
+  Result: bombed
+  Ref: Neo-Kamek
+- Boss: Bowyer (rematch)
+  Date: 2006-01-05
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: King Boo
+  Date: 2006-01-10
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: The Outlaws
   Date: 2006-01-11
   Result: victory
   Ref: H_Cuz
+- Boss: Amnesiac Death Squad
+  Date: 2006-01-12
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Schizo
   Date: 2006-01-18
   Result: victory
@@ -1459,18 +1479,50 @@
   Date: 2006-02-08
   Result: victory
   Ref: H_Cuz
+- Boss: Cupid and Drama Queen
+  Date: 2006-02-14
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Zeromus EG
   Date: 2006-02-15
   Result: defeat
   Ref: H_Cuz
+- Boss: Thardus
+  Date: 2006-02-16
+  Result: bombed
+  Ref: Neo-Kamek
+- Boss: Dick Cheney
+  Date: 2006-02-20
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Anger
+  Date: 2006-02-20
+  Result: bombed
+  Ref: Neo-Kamek
+- Boss: GolemTwins
+  Date: 2006-02-21
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Brachioraidos
   Date: 2006-02-22
   Result: victory
   Ref: H_Cuz
+- Boss: Omega Pirate
+  Date: 2006-02-28
+  Result: bombed
+  Ref: Neo-Kamek
 - Boss: Lunar Ifrit, Lunar Shiva, Lunar Ramuh
   Date: 2006-03-01
   Result: victory
   Ref: H_Cuz
+- Boss: Omega Pirate (rematch)
+  Date: 2006-03-02
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Random Enemy Endurance
+  Date: 2006-03-06
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Robot Master Endurance
   Date: 2006-03-08
   Result: defeat
@@ -1479,14 +1531,30 @@
   Date: 2006-03-13
   Result: bombed
   Ref: H_Cuz
+- Boss: Hoggmeiser
+  Date: 2006-03-14
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: The Anti-Whore
+  Date: 2006-03-21
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Tournament - Kamek
   Date: 2006-03-22
   Result: victory
   Ref: H_Cuz
+- Boss: Sandbag
+  Date: 2006-03-23
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Tournament - Shin Akuma
   Date: 2006-03-29
   Result: defeat
   Ref: H_Cuz
+- Boss: "Story Arc '06 Battle 1: Auto-Generic Maker"
+  Date: 2006-03-30
+  Result: defeat
+  Ref: Neo-Kamek
 - Boss: Tournament - Shin Akuma (rematch)
   Date: 2006-04-03
   Result: victory
@@ -1495,42 +1563,106 @@
   Date: 2006-04-05
   Result: victory
   Ref: H_Cuz
+- Boss: "Story Arc '06 Battle 1a: Auto-Generic Maker"
+  Date: 2006-04-06
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Tournament - Heroes of Final Fantasy 5
   Date: 2006-04-10
   Result: defeat
   Ref: H_Cuz
+- Boss: "Story Arc '06 Battle 2: Bowser's Fortress"
+  Date: 2006-04-12
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Easter Egg Hunt
   Date: 2006-04-17
   Result: victory
   Ref: H_Cuz
+- Boss: "Story Arc '06 Battle 3: Wario"
+  Date: 2006-04-20
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: "Story Arc '06 Battle 4: Kammy Koopa"
+  Date: 2006-04-24
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Evil Mario Bros
   Date: 2006-04-26
   Result: defeat
   Ref: H_Cuz
+- Boss: "Story Arc '06 Battle 5: The Big Boo"
+  Date: 2006-04-27
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Evil Mario Bros (rematch)
   Date: 2006-05-03
   Result: defeat
   Ref: H_Cuz
+- Boss: "Story Arc '06 Battle 6: Giga Naval Piranha"
+  Date: 2006-05-08
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Hazardman & Surge
   Date: 2006-05-10
   Result: defeat
   Ref: H_Cuz
+- Boss: "Story Arc '06 Battle 7: Kamek & Bowser"
+  Date: 2006-05-11
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: "No Secondaries Night: Pimp Daddy Wiegraf '06"
+  Date: 2006-05-16
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Kirbies on Parade
   Date: 2006-05-17
   Result: victory
   Ref: H_Cuz
+- Boss: Dr. Wily's New Robot Masters
+  Date: 2006-05-23
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: Wiegraf '06 (rematch)
+  Date: 2006-05-23
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Kirbies on Parade (redux)
   Date: 2006-05-24
   Result: bombed
   Ref: H_Cuz
+- Boss: Ned the Redneck Necromancer
+  Date: 2006-05-25
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Save Yorda
+  Date: 2006-05-30
+  Result: bombed
+  Ref: Neo-Kamek
 - Boss: Kirbies on Parade (redux rematch)
   Date: 2006-05-31
   Result: defeat
   Ref: H_Cuz
+- Boss: Save Yorda (rematch)
+  Date: 2006-06-01
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Timer Event
+  Date: 2006-06-06
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Bowser & Bowser Jr
   Date: 2006-06-07
   Result: victory
   Ref: H_Cuz
+- Boss: Satan
+  Date: 2006-06-08
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Scavenger Hunt Mini-Event
+  Date: 2006-06-13
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Giga Bowser
   Date: 2006-06-14
   Result: victory
@@ -1539,6 +1671,14 @@
   Date: 2006-06-21
   Result: victory
   Ref: H_Cuz
+- Boss: Wal-Mart Smiley
+  Date: 2006-06-22
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: Queen Zeal
+  Date: 2006-06-27
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Wart
   Date: 2006-06-28
   Result: victory
@@ -1547,14 +1687,30 @@
   Date: 2006-07-05
   Result: victory
   Ref: H_Cuz
+- Boss: Beoulve Family
+  Date: 2006-07-11
+  Result: bombed
+  Ref: Neo-Kamek
+- Boss: Beoulve Family (rematch)
+  Date: 2006-07-18
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Super Mario Bros 2 Heroes
   Date: 2006-07-19
   Result: defeat
   Ref: H_Cuz
+- Boss: The Arena's Debt
+  Date: 2006-07-25
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Super Mario Bros 2 Heroes (rematch)
   Date: 2006-07-26
   Result: defeat
   Ref: H_Cuz
+- Boss: Czar Dragon/Zombone
+  Date: 2006-08-01
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Cloud Cosplayers From Hell
   Date: 2006-08-09
   Result: victory
@@ -1567,6 +1723,10 @@
   Date: 2006-08-31
   Ref: H_Cuz
   Result: victory
+- Boss: ShadowMan.EXE
+  Date: 2006-08-31
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: ShadowMan.EXE rematch
   Date: 2006-09-05
   Result: victory
@@ -1579,8 +1739,8 @@
   Date: 2006-09-11
   Result: unknown
   Ref: Neo-Kamek
-- Boss: Hazardman & Surge
-  Date: 2006-09-05
+- Boss: HazardMan & Surge Lite
+  Date: 2006-09-12
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Prinny Land 1
