@@ -512,6 +512,10 @@
   Data: 2004-07-08
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Rank II Classes
+  Data: 2004-07-11
+  Result: defeat
+  Ref: Neo-Kamek
 - Boss: Duke the Fraction Satan
   Data: 2004-07-13
   Result: victory
@@ -536,6 +540,10 @@
     - Dan
     - NekoIncardine
   Ref: H_Cuz
+- Boss: Met Demon
+  Data: 2004-07-15
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Evil Luigi
   Data: 2004-07-19
   Result: victory
@@ -551,6 +559,18 @@
     - Atom
     - NekoIncardine
   Ref: H_Cuz
+- Boss: Elmdor & Assassins
+  Data: 2004-07-20
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: Defensive-Oriented Bosses
+  Data: 2004-07-21
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: BOSSMAN
+  Data: 2004-07-26
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Magus
   Data: 2004-07-26
   Result: victory
@@ -563,6 +583,10 @@
     - MechaCrash
     - Klawkat
     - Cyber Black Yoshi
+- Boss: Team Random
+  Data: 2004-07-28
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Evil Mario Bros.
   Data: 2004-08-02
   Result: bombed
@@ -578,6 +602,10 @@
     - AVR
     - Carter
   Ref: H_Cuz
+- Boss: Progressive Match
+  Data: 2004-08-03
+  Result: defeat
+  Ref: Neo-Kamek
 - Boss: MegaMan.EXE DS
   Data: 2004-08-04
   Result: victory
@@ -592,6 +620,14 @@
     - Xyzzy
     - Klawkat
   Ref: H_Cuz
+- Boss: SurgeMan
+  Data: 2004-08-05
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Bowser and Koopalings
+  Date: 2004-08-09
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Anti-Whore (round 1)
   Data: 2004-08-23
   Result: victory
@@ -618,6 +654,10 @@
     - NekoIncardine
     - scifantasy
   Ref: H_Cuz
+- Boss: Phantoon
+  Date: 2004-08-24
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: FlameMan.EXE
   Data: 2004-08-25
   Result: victory
@@ -626,6 +666,10 @@
     - Canadian Yosheh
     - Ben-San
   Ref: H_Cuz
+- Boss: Psycho Postal Workers
+  Date: 2004-08-26
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Shazar the Dark Sorcerer
   Data: 2004-08-30
   Result: victory
@@ -637,6 +681,10 @@
     - Canadian Yosheh
     - Ben-San
   Ref: H_Cuz
+- Boss: Zeeky H. Bomb
+  Date: 2004-08-31
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: The Dentist
   Data: 2004-09-01
   Result: victory
@@ -651,6 +699,10 @@
     - Carter
     - MechaCrash
   Ref: H_Cuz
+- Boss: Item Whore Team
+  Date: 2004-09-02
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Team Boom-Boom (round 1)
   Data: 2004-09-06
   Result: bombed
@@ -669,6 +721,10 @@
     - Canadian Yosheh
     - UDX
   Ref: H_Cuz
+- Boss: The Neo-Packers
+  Date: 2004-09-07
+  Result: defeat
+  Ref: Neo-Kamek
 - Boss: Team Boom-Boom (round 3)
   Data: 2004-09-08
   Result: victory
@@ -835,6 +891,10 @@
   Data: 2005-01-04
   Result: victory
   Ref: H_Cuz
+- Boss: Kamek the Magikoopa
+  Date: 2005-01-05
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Trance KtR/Dan
   Data: 2005-01-10
   Result: defeat
@@ -843,6 +903,10 @@
   Data: 2005-01-10
   Result: victory
   Ref: H_Cuz
+- Boss: Shadow Sirens
+  Date: 2005-01-11
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Find SearchMan.EXE!
   Data: 2005-01-12
   Result: victory
@@ -851,10 +915,18 @@
   Data: 2005-01-17
   Result: victory
   Ref: H_Cuz
+- Boss: Doopliss
+  Date: 2005-01-20
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: MegaMan.EXE and ProtoMan.EXE SP
   Data: 2005-01-24
   Result: victory
   Ref: H_Cuz
+- Boss: Glitz Pit Special
+  Date: 2005-01-25
+  Result: bombed
+  Ref: Neo-Kamek
 - Boss: MegaMan.EXE and ProtoMan.EXE SP (rematch)
   Data: 2005-01-31
   Result: victory
@@ -863,6 +935,10 @@
   Data: 2005-02-02
   Result: defeat
   Ref: H_Cuz
+- Boss: Vulcanus and the Celestial Host
+  Date: 2005-02-03
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Boston Red Sox
   Data: 2005-02-07
   Result: victory
@@ -951,6 +1027,10 @@
   Data: 2005-05-23
   Result: defeat
   Ref: H_Cuz
+- Boss: Goblin Squad
+  Date: 2005-05-24
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Elmdor and their assassins
   Data: 2005-05-25
   Result: defeat
@@ -959,18 +1039,46 @@
   Data: 2005-05-25
   Result: victory
   Ref: H_Cuz
+- Boss: Judgemaster NK
+  Date: 2005-05-26
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Surge the Umpteenth
+  Date: 2005-05-31
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Knights of FFT
   Data: 2005-06-01
   Result: victory
   Ref: H_Cuz
+- Boss: Postal Dude
+  Date: 2005-06-02
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Miranda Jyahana (rematch 2)
   Data: 2005-06-06
   Result: victory
   Ref: H_Cuz
+- Boss: Pimp Daddy Wiegraf '05
+  Date: 2005-06-07
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Minotaur and Omniscient (Fork Tower Edition)
   Data: 2005-06-08
   Result: victory
   Ref: H_Cuz
+- Boss: Jesshelper007
+  Date: 2005-06-09
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: Random Enemy Endurance
+  Date: 2005-06-13
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: Grog Hill
+  Date: 2005-06-14
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Ener and their priests (rematch)
   Data: 2005-06-15
   Result: defeat
@@ -979,6 +1087,14 @@
   Data: 2005-06-20
   Result: victory
   Ref: H_Cuz
+- Boss: Team Worms
+  Date: 2005-06-21
+  Result: defeat
+  Ref: Neo-Kamek
+- Boss: Gogo
+  Date: 2005-06-22
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Super Mario Bros 2 Bosses
   Data: 2005-06-22
   Result: defeat
