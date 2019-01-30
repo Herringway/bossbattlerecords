@@ -2980,6 +2980,10 @@
   Date: 2009-12-24
   Result: victory
   Ref: Kafei
+- Boss: Derpman
+  Date: 2009-12-29
+  Result: defeat
+  Ref: Neo-Kamek
 - Boss: Protect Umbry
   Date: 2009-12-31
   Result: victory
@@ -2988,10 +2992,22 @@
   Date: 2010-01-01
   Result: defeat
   Ref: Misty
+- Boss: Early Bird
+  Date: 2010-01-02
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Saturday Knight
+  Date: 2010-01-02
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Shadow Kanji 2
   Date: 2010-01-04
   Result: victory
   Ref: Evvie
+- Boss: Timer Event
+  Date: 2010-01-05
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Vash the Stampede
   Date: 2010-01-07
   Result: bombed
@@ -3000,6 +3016,10 @@
   Date: 2010-01-11
   Result: victory
   Ref: Evvie
+- Boss: Big Fat Guy
+  Date: 2010-01-14
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Pointy-Haired Boss
   Date: 2010-01-15
   Result: victory
@@ -3008,6 +3028,10 @@
   Date: 2010-01-18
   Result: bombed
   Ref: Evvie
+- Boss: Tonberry Squad
+  Date: 2010-01-19
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Gi Nattak
   Date: 2010-01-21
   Result: victory
@@ -3020,6 +3044,10 @@
   Date: 2010-01-25
   Result: victory
   Ref: Evvie
+- Boss: Mini-Event - Random Boss Rush
+  Date: 2010-01-26
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: The Ancients
   Date: 2010-01-28
   Result: victory
@@ -3036,6 +3064,10 @@
   Date: 2010-02-08
   Result: victory
   Ref: Evvie
+- Boss: Professor Jannow
+  Date: 2010-02-09
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Evrae (rematch)
   Date: 2010-02-11
   Result: defeat
@@ -3048,6 +3080,10 @@
   Date: 2010-02-15
   Result: victory
   Ref: Evvie
+- Boss: "Story Arc 2010: Session #2"
+  Date: 2010-02-16
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Espa (original-ish)
   Date: 2010-02-18
   Result: bombed
@@ -3056,6 +3092,10 @@
   Date: 2010-02-19
   Result: defeat
   Ref: Misty
+- Boss: "Story Arc 2010: Session #3"
+  Date: 2010-02-23
+  Result: completed
+  Ref: Neo-Kamek
 - Boss: Espa (original-ish) (rematch)
   Date: 2010-02-25
   Result: defeat
@@ -3064,22 +3104,34 @@
   Date: 2010-02-26
   Result: victory
   Ref: Misty
-- Boss: Junker (rematch)
-  Date: 2010-03-05
-  Result: victory
-  Ref: Misty
 - Boss: Ameno-Sagiri
   Date: 2010-03-01
   Result: victory
   Ref: Evvie
+- Boss: "Story Arc 2010: Session #4"
+  Date: 2010-03-02
+  Result: unknown
+  Ref: Neo-Kamek
 - Boss: Seifer and Edea
   Date: 2010-03-04
   Result: bombed
   Ref: Kafei
+- Boss: Junker (rematch)
+  Date: 2010-03-05
+  Result: victory
+  Ref: Misty
 - Boss: Biggs, Wedge and Elvoret
   Date: 2010-03-08
   Result: bombed
   Ref: Evvie
+- Boss: "Story Arc 2010: Session #4 (rematch)"
+  Date: 2010-03-09
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: "Story Arc 2010: Session #5"
+  Date: 2010-03-09
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Cait Sith
   Date: 2010-03-11
   Result: victory
@@ -3108,6 +3160,10 @@
   Date: 2010-03-15
   Result: victory
   Ref: Evvie
+- Boss: "Dark Knight Guardian: Goffard Gaffgarion"
+  Date: 2010-03-16
+  Result: bombed
+  Ref: Neo-Kamek
 - Boss: Blue Magic Session
   Date: 2010-03-19
   Result: completed
@@ -3128,6 +3184,10 @@
   Date: 2010-04-23
   Result: bombed
   Ref: Misty
+- Boss: "Dark Knight Guardian: Goffard Gaffgarion (rematch)"
+  Date: 2010-04-27
+  Result: victory
+  Ref: Neo-Kamek
 - Boss: Thardus
   Date: 2010-04-30
   Result: victory
