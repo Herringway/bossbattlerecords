@@ -2232,26 +2232,78 @@
   Date: 2010-01-01
   Result: defeat
   Ref: Misty
+- Boss: Shadow Kanji 2
+  Date: 2010-01-04
+  Result: victory
+  Ref: Evvie
+- Boss: Vash the Stampede
+  Date: 2010-01-07
+  Result: bombed
+  Ref: Kafei
+- Boss: Shadow Neuro
+  Date: 2010-01-11
+  Result: victory
+  Ref: Evvie
 - Boss: Pointy-Haired Boss
   Date: 2010-01-15
   Result: victory
   Ref: Misty
+- Boss: Shadow Daigo
+  Date: 2010-01-18
+  Result: bombed
+  Ref: Evvie
+- Boss: Gi Nattak
+  Date: 2010-01-21
+  Result: victory
+  Ref: Kafei
 - Boss: Ledah
   Date: 2010-01-22
   Result: defeat
   Ref: Misty
+- Boss: Shadow Daigo (rematch)
+  Date: 2010-01-25
+  Result: victory
+  Ref: Evvie
+- Boss: The Ancients
+  Date: 2010-01-28
+  Result: victory
+  Ref: Kafei
 - Boss: Malice
   Date: 2010-01-29
   Result: bombed
   Ref: Misty
+- Boss: Evrae
+  Date: 2010-02-04
+  Result: bombed
+  Ref: Kafei
+- Boss: Kunino-Sagiri
+  Date: 2010-02-08
+  Result: victory
+  Ref: Evvie
+- Boss: Evrae (rematch)
+  Date: 2010-02-11
+  Result: defeat
+  Ref: Kafei
 - Boss: Hector (aka PORNBUSTER)
   Date: 2010-02-12
   Result: victory
   Ref: Misty
+- Boss: Evvie the Ref
+  Date: 2010-02-15
+  Result: victory
+  Ref: Evvie
+- Boss: Espa (original-ish)
+  Date: 2010-02-18
+  Result: bombed
+  Ref: Kafei
 - Boss: Seth-Rah
   Date: 2010-02-19
   Result: defeat
   Ref: Misty
+- Boss: Espa (original-ish) (rematch)
+  Date: 2010-02-25
+  Result: defeat
+  Ref: Kafei
 - Boss: The King of Hyrule
   Date: 2010-02-26
   Result: victory
@@ -2260,10 +2312,46 @@
   Date: 2010-03-05
   Result: victory
   Ref: Misty
+- Boss: Ameno-Sagiri
+  Date: 2010-03-01
+  Result: victory
+  Ref: Evvie
+- Boss: Seifer and Edea
+  Date: 2010-03-04
+  Result: bombed
+  Ref: Kafei
+- Boss: Biggs, Wedge and Elvoret
+  Date: 2010-03-08
+  Result: bombed
+  Ref: Evvie
+- Boss: Cait Sith
+  Date: 2010-03-11
+  Result: victory
+  Participants:
+    - Church
+    - Doak
+    - Dragoshi
+    - Evvie
+    - H_Cuz
+    - Kyoji
+    - Meta
+    - Misty
+    - Perona
+    - Riddle
+    - Sharu
+    - Slash
+    - SSLRranma
+    - TIASIAN
+    - Varna
+  Ref: Kafei
 - Boss: NORG
   Date: 2010-03-12
   Result: defeat
   Ref: Misty
+- Boss: Biggs, Wedge and Elvoret (rematch)
+  Date: 2010-03-15
+  Result: victory
+  Ref: Evvie
 - Boss: Blue Magic Session
   Date: 2010-03-19
   Result: completed
