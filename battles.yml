@@ -3245,6 +3245,14 @@
   Date: 2010-04-09
   Result: defeat
   Ref: Misty
+- Boss: Porphyrion
+  Date: 2010-04-15
+  Result: victory
+  Ref: Kafei
+- Boss: Za'Dha
+  Date: 2010-04-22
+  Result: victory
+  Ref: Kafei
 - Boss: Archangel (Riviera)
   Date: 2010-04-23
   Result: bombed
@@ -3253,6 +3261,10 @@
   Date: 2010-04-27
   Result: victory
   Ref: Neo-Kamek
+- Boss: Taber'quoan
+  Date: 2010-04-29
+  Result: defeat
+  Ref: Kafei
 - Boss: Thardus
   Date: 2010-04-30
   Result: victory
@@ -3261,6 +3273,14 @@
   Date: 2010-05-04
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Taber'quoan
+  Date: 2010-05-06
+  Result: defeat
+  Ref: Kafei
+- Boss: Alexia Ashford
+  Date: 2010-05-10
+  Result: victory
+  Ref: Evvie
 - Boss: "Onion Knight Guardian: Onion Knight"
   Date: 2010-05-11
   Result: victory
@@ -3269,10 +3289,18 @@
   Date: 2010-05-11
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Shadow Lord
+  Date: 2010-05-13
+  Result: victory
+  Ref: Kafei
 - Boss: Missingno
   Date: 2010-05-15
   Result: victory
   Ref: Misty
+- Boss: Shadow Heroes (redux)
+  Date: 2010-05-17
+  Result: victory
+  Ref: Evvie
 - Boss: "Mad Scientist Guardian: Professor Utonium"
   Date: 2010-05-18
   Result: bombed
@@ -3281,18 +3309,38 @@
   Date: 2010-05-19
   Result: victory
   Ref: Neo-Kamek
+- Boss: "Job Class Guardian: User404"
+  Date: 2010-05-20
+  Result: defeat
+  Ref: Kafei
+- Boss: Lady Gaga
+  Date: 2010-05-24
+  Result: victory
+  Ref: Evvie
 - Boss: "Prinny Guardian: Pringer X"
   Date: 2010-05-25
   Result: victory
   Ref: Neo-Kamek
+- Boss: "Job Class Guardian: Espa (rematch 2)"
+  Date: 2010-05-27
+  Result: victory
+  Ref: Kafei
 - Boss: Jinzo
   Date: 2010-05-28
   Result: defeat
   Ref: Misty
+- Boss: General Guy
+  Date: 2010-05-31
+  Result: bombed
+  Ref: Evvie
 - Boss: "Mad Scientist Guardian: Professor Utonium (rematch)"
   Date: 2010-06-01
   Result: victory
   Ref: Neo-Kamek
+- Boss: "Job Class Guardian: User404 (rematch)"
+  Date: 2010-06-03
+  Result: unknown
+  Ref: Kafei
 - Boss: Rotom
   Date: 2010-06-04
   Result: victory
@@ -3305,6 +3353,10 @@
   Date: 2010-06-11
   Result: victory
   Ref: Misty
+- Boss: Tagger's Race
+  Date: 2010-06-14
+  Result: defeat
+  Ref: Evvie
 - Boss: "Cardcaptor Guardian: Kerberos/Yue (rematch 2)"
   Date: 2010-06-15
   Result: bombed
@@ -3321,18 +3373,34 @@
   Date: 2010-06-29
   Result: victory
   Ref: Neo-Kamek
+- Boss: Iowa McDonald
+  Date: 2010-07-01
+  Result: victory
+  Ref: Kafei
 - Boss: Marilith (original-ish)
   Date: 2010-07-02
   Result: victory
   Ref: Misty
+- Boss: Lord of the Flowsand (rematch 2)
+  Date: 2010-07-05
+  Result: victory
+  Ref: Evvie
 - Boss: Dark Sun - Mike J
   Date: 2010-07-06
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Seifer & Edea (rematch)
+  Date: 2010-07-08
+  Result: defeat
+  Ref: Kafei
 - Boss: Luke
   Date: 2010-07-09
   Result: defeat
   Ref: Misty
+- Boss: Huff'n'Puff (rematch)
+  Date: 2010-07-12
+  Result: victory
+  Ref: Evvie
 - Boss: Ky Kiske
   Date: 2010-07-13
   Result: victory
@@ -3341,10 +3409,18 @@
   Date: 2010-07-14
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Deoxys
+  Date: 2010-07-15
+  Result: defeat
+  Ref: Kafei
 - Boss: Serene
   Date: 2010-07-16
   Result: defeat
   Ref: Misty
+- Boss: Emperor & Empress
+  Date: 2010-07-19
+  Result: unknown
+  Ref: Evvie
 - Boss: Fubugrass (Scrabble) (rematch)
   Date: 2010-07-20
   Result: victory
@@ -3353,14 +3429,26 @@
   Date: 2010-07-20
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Deoxys (rematch)
+  Date: 2010-07-22
+  Result: victory
+  Ref: Kafei
 - Boss: PiX
   Date: 2010-07-27
   Result: cancelled
   Ref: Neo-Kamek
+- Boss: Agrias, Alicia & Lavian
+  Date: 2010-07-29
+  Result: bombed
+  Ref: Kafei
 - Boss: Phantom (Devil May Cry)
   Date: 2010-07-30
   Result: bombed
   Ref: Misty
+- Boss: Emperor & Empress (rematch)
+  Date: 2010-08-02
+  Result: defeat
+  Ref: Evvie
 - Boss: Suicune
   Date: 2010-08-03
   Result: bombed
@@ -3377,22 +3465,42 @@
   Date: 2010-08-10
   Result: victory
   Ref: Neo-Kamek
+- Boss: Agrias, Alicia & Lavian (rematch)
+  Date: 2010-08-12
+  Result: unknown
+  Ref: Kafei
 - Boss: Doppelganger (Ragnarok Online)
   Date: 2010-08-14
   Result: unknown
   Ref: Varna
+- Boss: LeBlanc Syndicate (rematch)
+  Date: 2010-08-16
+  Result: defeat
+  Ref: Evvie
 - Boss: Professor Chaos and General Disarray (Job Class Chaos)
   Date: 2010-08-17
   Result: victory
   Ref: Neo-Kamek
+- Boss: IZ-86X
+  Date: 2010-08-19
+  Result: victory
+  Ref: Kafei
 - Boss: Cal
   Date: 2010-08-21
   Result: completed
   Ref: Varna
+- Boss: Greedy Cervantes, Poison Lei Lei, Garden Michelle & Immortal Gokiri
+  Date: 2010-08-23
+  Result: victory
+  Ref: Evvie
 - Boss: Bowser & Kamek
   Date: 2010-08-24
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Seifer & Edea (rematch 2)
+  Date: 2010-08-25
+  Result: defeat
+  Ref: Kafei
 - Boss: Culex
   Date: 2010-08-27
   Result: defeat
@@ -3401,14 +3509,30 @@
   Date: 2010-08-28
   Result: completed
   Ref: Varna
+- Boss: Bongo Bongo
+  Date: 2010-08-30
+  Result: defeat
+  Ref: Evvie
 - Boss: NORG
   Date: 2010-08-31
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Seifer, Edea, Agrias, Alicia & Lavian
+  Date: 2010-09-02
+  Result: victory
+  Ref: Kafei
 - Boss: Neo-Arcadian Army (rematch)
   Date: 2010-09-04
   Result: completed
   Ref: Varna
+- Boss: Demonhead Mobster Kingpin
+  Date: 2010-09-06
+  Result: unknown
+  Ref: Evvie
+- Boss: Rosenatta
+  Date: 2010-09-09
+  Result: bombed
+  Ref: Kafei
 - Boss: Ashton
   Date: 2010-09-10
   Result: defeat
@@ -3417,6 +3541,10 @@
   Date: 2010-09-11
   Result: unknown
   Ref: Varna
+- Boss: Mr. Genetor
+  Date: 2010-09-16
+  Result: defeat
+  Ref: Kafei
 - Boss: Meta-Ridley
   Date: 2010-09-17
   Result: bombed
@@ -3440,10 +3568,18 @@
     - Meta
     - Aurida
   Ref: Kafei
+- Boss: Lady Gaga (rematch)
+  Date: 2010-09-20
+  Result: defeat
+  Ref: Evvie
 - Boss: Gato Mk2
   Date: 2010-09-21
   Result: victory
   Ref: Neo-Kamek
+- Boss: Unknown
+  Date: 2010-09-23
+  Result: victory
+  Ref: Kafei
 - Boss: Al Mualim
   Date: 2010-09-25
   Result: defeat
@@ -3452,6 +3588,10 @@
   Date: 2010-09-27
   Result: victory
   Ref: Varna
+- Boss: Manly Shroob
+  Date: 2010-09-30
+  Result: victory
+  Ref: Kafei
 - Boss: Mobster Kingpin
   Date: 2010-10-01
   Result: victory
@@ -3464,6 +3604,10 @@
   Date: 2010-10-05
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Gabriel
+  Date: 2010-10-07
+  Result: bombed
+  Ref: Kafei
 - Boss: Tutankoopa
   Date: 2010-10-08
   Result: victory
@@ -3476,10 +3620,18 @@
   Date: 2010-10-12
   Result: victory
   Ref: Neo-Kam
+- Boss: Weisseisen & Altritter
+  Date: 2010-10-14
+  Result: defeat
+  Ref: Kafei
 - Boss: Safer Sephiroth
   Date: 2010-10-15
   Result: defeat
   Ref: Misty
+- Boss: Homestuck Guardians
+  Date: 2010-10-21
+  Result: bombed
+  Ref: Kafei
 - Boss: The Wotch and the Worlock
   Date: 2010-10-22
   Result: bombed
@@ -3492,6 +3644,10 @@
   Date: 2010-10-23
   Result: victory
   Ref: Varna
+- Boss: Aurida!D&D Heroes
+  Date: 2010-10-25
+  Result: defeat
+  Ref: Kafei
 - Boss: Snorlax?
   Date: 2010-10-26
   Result: unknown
@@ -3571,10 +3727,30 @@
   Date: 2010-12-04
   Result: victory
   Ref: Varna
+- Boss: Rita Repulsa
+  Date: 2010-12-09
+  Result: defeat
+  Ref: Kafei
+- Boss: Demonhead Mobster Kingpin (rematch)
+  Date: 2010-12-13
+  Result: bombed
+  Ref: Evvie
+- Boss: User404 (rematch)
+  Date: 2010-12-16
+  Result: defeat
+  Ref: Kafei
 - Boss: Nihilanth
   Date: 2010-12-18
   Result: defeat
   Ref: Misty
+- Boss: Scott Pilgrim, Ramona Flowers, Steven Stills, & Kim Pine
+  Date: 2010-12-20
+  Result: unknown
+  Ref: Evvie
+- Boss: Protect Santa
+  Date: 2010-12-24
+  Result: completed
+  Ref: Kafei
 - Boss: Dark Samus
   Date: 2011-01-07
   Result: bombed
