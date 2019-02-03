@@ -1,38 +1,38 @@
 ---
 - Boss: YYY
-  Data: 2002-09-09
+  Date: 2002-09-09
   Result: unknown
   Ref: Neo-Kamek
 - Boss: EarthBound Heroes
-  Data: 2003-01-07
+  Date: 2003-01-07
   Result: defeat
   Ref: H_Cuz
 - Boss: Master Hand and Crazy Hand
-  Data: 2003-01-26
+  Date: 2003-01-26
   Result: defeat
   Ref: H_Cuz
 - Boss: Meta-Ridley
-  Data: 2003-02-11
+  Date: 2003-02-11
   Result: victory
   Ref: H_Cuz
 - Boss: Quale
-  Data: 2003-02-15
+  Date: 2003-02-15
   Result: victory
   Ref: H_Cuz
 - Boss: Hades
-  Data: 2003-02-15
+  Date: 2003-02-15
   Result: victory
   Ref: H_Cuz
 - Boss: Generic Boss Battle
-  Data: 2003-03-06
+  Date: 2003-03-06
   Result: defeat
   Ref: H_Cuz
 - Boss: Yaridovich
-  Data: 2003-03-18
+  Date: 2003-03-18
   Result: victory
   Ref: H_Cuz
 - Boss: Hazard Bar
-  Data: 2003-03-22
+  Date: 2003-03-22
   Result: victory
   Participants:
     - Tizzy
@@ -42,7 +42,7 @@
     - Carter
   Ref: H_Cuz
 - Boss: Robo-Kys
-  Data: 2003-04-10
+  Date: 2003-04-10
   Result: victory
   Participants:
     - TarenWanderer
@@ -52,26 +52,26 @@
     - The Silent Strider
   Ref: H_Cuz
 - Boss: Zombie Jesus
-  Data: 2003-04-20
+  Date: 2003-04-20
   Result: victory
   Participants:
     - Tizzy
     - The Silent Strider
   Ref: H_Cuz
 - Boss: Haz Ketchum and Surgeachu
-  Data: 2003-12-11
+  Date: 2003-12-11
   Result: victory
   Ref: Neo-Kamek
 - Boss: FF3*NK
-  Data: 2004-01-05
+  Date: 2004-01-05
   Result: defeat
   Ref: Neo-Kamek
 - Boss: Boo Cuz
-  Data: 2004-01-05
+  Date: 2004-01-05
   Result: victory
   Ref: H_Cuz
 - Boss: Trance KtR & Trance Dan
-  Data: 2004-01-12
+  Date: 2004-01-12
   Result: victory
   Ref: H_Cuz
 - Boss: Llednar
@@ -81,19 +81,19 @@
   Result: defeat
   Ref: H_Cuz
 - Boss: Squid Thing
-  Data: 2004-02-02
+  Date: 2004-02-02
   Result: victory
   Ref: H_Cuz
 - Boss: Final Cackletta
-  Data: 2004-02-09
+  Date: 2004-02-09
   Result: victory
   Ref: H_Cuz
 - Boss: Trash Golem
-  Data: 2004-02-16
+  Date: 2004-02-16
   Result: victory
   Ref: H_Cuz
 - Boss: Bob-omb Brigade
-  Data: 2004-02-23
+  Date: 2004-02-23
   Result: victory
   Ref: H_Cuz
   Participants:
@@ -101,11 +101,11 @@
     - Aster
     - Cyber Black Yoshi
 - Boss: Tutankoopa
-  Data: 2004-02-24
+  Date: 2004-02-24
   Result: defeat
   Ref: H_Cuz
 - Boss: Tubba Blubba
-  Data: 2004-03-01
+  Date: 2004-03-01
   Result: victory
   Participants:
     - Aster
@@ -113,7 +113,7 @@
     - Ben-San
   Ref: H_Cuz
 - Boss: Straw Hat Pirates
-  Data: 2004-03-03
+  Date: 2004-03-03
   Result: defeat
   Participants:
     - Canadian Yosheh
@@ -127,7 +127,7 @@
     - Unknown
   Ref: H_Cuz
 - Boss: Wario
-  Data: 2004-03-08
+  Date: 2004-03-08
   Result: victory
   Participants:
     - EchoAlbarn
@@ -142,7 +142,7 @@
     - Klawkat
   Ref: H_Cuz
 - Boss: The Big Boo & Birdo
-  Data: 2004-03-15
+  Date: 2004-03-15
   Result: victory
   Participants:
     - Eiviiaru
@@ -157,7 +157,7 @@
     - Klawkat
   Ref: H_Cuz
 - Boss: Cackletta, Fawful, Popple & Queen Bean
-  Data: 2004-03-17
+  Date: 2004-03-17
   Result: victory
   Participants:
     - Eiviiaru
@@ -171,7 +171,7 @@
     - Dan
     - Canadian Yosheh
 - Boss: Bowser's Kastle Mini-Event
-  Data: 2004-03-22
+  Date: 2004-03-22
   Result: victory
   Participants:
     - The Silent Strider
@@ -187,11 +187,11 @@
     - Canadian Yosheh
   Ref: H_Cuz
 - Boss: Koopalings
-  Data: 2004-03-24
+  Date: 2004-03-24
   Result: victory
   Ref: H_Cuz
 - Boss: Kamek & Kammy
-  Data: 2004-03-29
+  Date: 2004-03-29
   Result: bombed
   Participants:
     - SSLRranma
@@ -206,19 +206,19 @@
     - Aster
   Ref: H_Cuz
 - Boss: Evil Mario Bros
-  Data: 2004-03-31
+  Date: 2004-03-31
   Result: victory
   Ref: H_Cuz
 - Boss: Bowser
-  Data: 2004-04-07
+  Date: 2004-04-07
   Result: victory
   Ref: H_Cuz
 - Boss: The 8 EVALS
-  Data: 2004-04-14
+  Date: 2004-04-14
   Result: tie
   Ref: H_Cuz
 - Boss: Blue Magic Session
-  Data: 2004-04-19
+  Date: 2004-04-19
   Result: completed
   Participants:
     - SSLRranma
@@ -234,14 +234,14 @@
     - NekoIncardine
   Ref: H_Cuz
 - Boss: Kamek and Kammy Strike Back
-  Data: 2004-04-21
+  Date: 2004-04-21
   Result: bombed
   Participants:
     - UDX
     - Klawkat
   Ref: H_Cuz
 - Boss: Many Faces of MegaMan
-  Data: 2004-04-27
+  Date: 2004-04-27
   Result: victory
   Participants:
     - Cyber Black Yoshi
@@ -255,7 +255,7 @@
     - EchoAlbarn
   Ref: H_Cuz
 - Boss: MegaMan.EXE Style Change Extravaganza
-  Data: 2004-05-03
+  Date: 2004-05-03
   Result: defeat
   Participants:
     - EchoAlbarn
@@ -268,7 +268,7 @@
     - Klawkat
   Ref: H_Cuz
 - Boss: ATHF Villains
-  Data: 2004-05-10
+  Date: 2004-05-10
   Result: victory
   Participants:
     - NekoIncardine
@@ -280,7 +280,7 @@
     - MechaCrash
   Ref: H_Cuz
 - Boss: Mooninites rematch
-  Data: 2004-05-17
+  Date: 2004-05-17
   Result: victory
   Participants:
     - Atom
@@ -293,7 +293,7 @@
     - UDX
   Ref: H_Cuz
 - Boss: The Universal Remote
-  Data: 2004-05-19
+  Date: 2004-05-19
   Participants:
     - Tizzy
     - Cyber Black Yoshi
@@ -308,7 +308,7 @@
   Ref: H_Cuz
   Result: victory
 - Boss: The Outlaws
-  Data: 2004-05-24
+  Date: 2004-05-24
   Result: defeat
   Participants:
     - Cyber Black Yoshi
@@ -322,7 +322,7 @@
     - Canadian Yosheh
   Ref: H_Cuz
 - Boss: The Outlaws (rematch)
-  Data: 2004-05-24
+  Date: 2004-05-24
   Result: victory
   Participants:
     - Cyber Black Yoshi
@@ -336,7 +336,7 @@
     - Canadian Yosheh
   Ref: H_Cuz
 - Boss: Monday-Tuesday-Wednesday-Thursday-Friday-Saturday-Sunday
-  Data: 2004-05-31
+  Date: 2004-05-31
   Result: victory
   Participants:
     - Ben-San
@@ -344,14 +344,14 @@
     - Klawkat
   Ref: H_Cuz
 - Boss: Super Rune Knight Falco
-  Data: 2004-06-07
+  Date: 2004-06-07
   Result: victory
   Participants:
     - Canadian Yosheh
     - SSLRranma
   Ref: H_Cuz
 - Boss: Super Summoner Golbez
-  Data: 2004-06-09
+  Date: 2004-06-09
   Result: victory
   Participants:
     - Canadian Yosheh
@@ -366,14 +366,14 @@
     - Klawkat
   Ref: H_Cuz
 - Boss: Dr. Wily
-  Data: 2004-06-14
+  Date: 2004-06-14
   Result: victory
   Participants:
     - Canadian Yosheh
     - Atom
   Ref: H_Cuz
 - Boss: Popup Hell
-  Data: 2004-06-16
+  Date: 2004-06-16
   Result: defeat
   Participants:
     - SSLRranma
@@ -388,15 +388,15 @@
     - Unknown
   Ref: H_Cuz
 - Boss: Giant Mecha Killer Bee
-  Data: 2004-06-17
+  Date: 2004-06-17
   Result: victory
   Ref: Neo-Kamek
 - Boss: The Turks
-  Data: 2004-06-20
+  Date: 2004-06-20
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Protect Peach
-  Data: 2004-06-21
+  Date: 2004-06-21
   Result: victory
   Participants:
     - Tizzy
@@ -411,11 +411,11 @@
     - Klawkat
   Ref: H_Cuz
 - Boss: Mystery Boss
-  Data: 2004-06-22
+  Date: 2004-06-22
   Result: victory
   Ref: Neo-Kamek
 - Boss: Odin
-  Data: 2004-06-23
+  Date: 2004-06-23
   Result: victory
   Participants:
     - SSLRranma
@@ -423,7 +423,7 @@
     - MechaCrash
   Ref: H_Cuz
 - Boss: Timer Mini-Event
-  Data: 2004-06-28
+  Date: 2004-06-28
   Result: bombed
   Participants:
     - NekoIncardine
@@ -438,17 +438,17 @@
     - MechaCrash
   Ref: H_Cuz
 - Boss: RGB Color Wheel, the RCP Shard, and the Unterminated String Constant
-  Data: 2004-06-24
+  Date: 2004-06-24
   Result: defeat
   Ref: Neo-Kamek
 - Boss: The Turks (rematch)
-  Data: 2004-06-29
+  Date: 2004-06-29
   Result: victory
   Participants:
     - H_Cuz
   Ref: Neo-Kamek
 - Boss: X-Heroes
-  Data: 2004-06-30
+  Date: 2004-06-30
   Result: defeat
   Participants:
     - Unknown
@@ -460,7 +460,7 @@
     - Unknown
   Ref: H_Cuz
 - Boss: MagicMan.EXE (Retro)
-  Data: 2004-07-01
+  Date: 2004-07-01
   Result: victory
   Participants:
     - Atom
@@ -470,7 +470,7 @@
     - Xyzzy
   Ref: H_Cuz
 - Boss: Trash Golem V2
-  Data: 2004-07-05
+  Date: 2004-07-05
   Result: bombed
   Participants:
     - MechaCrash
@@ -487,11 +487,11 @@
     - Unknown
   Ref: H_Cuz
 - Boss: Magikoopas Mela, Garn, and Rikana
-  Data: 2004-07-06
+  Date: 2004-07-06
   Result: defeat
   Ref: Neo-Kamek
 - Boss: Protect Suicidal Peach
-  Data: 2004-07-07
+  Date: 2004-07-07
   Result: victory
   Participants:
     - AVR
@@ -505,19 +505,19 @@
     - Dan
   Ref: H_Cuz
 - Boss: 750 Life Man
-  Data: 2004-07-08
+  Date: 2004-07-08
   Result: defeat
   Ref: Neo-Kamek
 - Boss: Peach Mini-Event
-  Data: 2004-07-08
+  Date: 2004-07-08
   Result: defeat
   Ref: Neo-Kamek
 - Boss: Rank II Classes
-  Data: 2004-07-11
+  Date: 2004-07-11
   Result: defeat
   Ref: Neo-Kamek
 - Boss: Duke the Fraction Satan
-  Data: 2004-07-13
+  Date: 2004-07-13
   Result: victory
   Participants:
     - AVR
@@ -532,7 +532,7 @@
     - Xyzzy
   Ref: H_Cuz
 - Boss: SEMME Squad 128
-  Data: 2004-07-13
+  Date: 2004-07-13
   Result: bombed
   Participants:
     - Klawkat
@@ -541,11 +541,11 @@
     - NekoIncardine
   Ref: H_Cuz
 - Boss: Met Demon
-  Data: 2004-07-15
+  Date: 2004-07-15
   Result: victory
   Ref: Neo-Kamek
 - Boss: Evil Luigi
-  Data: 2004-07-19
+  Date: 2004-07-19
   Result: victory
   Participants:
     - Eiviiaru
@@ -560,19 +560,19 @@
     - NekoIncardine
   Ref: H_Cuz
 - Boss: Elmdor & Assassins
-  Data: 2004-07-20
+  Date: 2004-07-20
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Defensive-Oriented Bosses
-  Data: 2004-07-21
+  Date: 2004-07-21
   Result: victory
   Ref: Neo-Kamek
 - Boss: BOSSMAN
-  Data: 2004-07-26
+  Date: 2004-07-26
   Result: victory
   Ref: Neo-Kamek
 - Boss: Magus
-  Data: 2004-07-26
+  Date: 2004-07-26
   Result: victory
   Participants:
     - Neo-Kamek
@@ -584,11 +584,11 @@
     - Klawkat
     - Cyber Black Yoshi
 - Boss: Team Random
-  Data: 2004-07-28
+  Date: 2004-07-28
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Evil Mario Bros.
-  Data: 2004-08-02
+  Date: 2004-08-02
   Result: bombed
   Participants:
     - Klawkat
@@ -603,11 +603,11 @@
     - Carter
   Ref: H_Cuz
 - Boss: Progressive Match
-  Data: 2004-08-03
+  Date: 2004-08-03
   Result: defeat
   Ref: Neo-Kamek
 - Boss: MegaMan.EXE DS
-  Data: 2004-08-04
+  Date: 2004-08-04
   Result: victory
   Participants:
     - Dan
@@ -621,7 +621,7 @@
     - Klawkat
   Ref: H_Cuz
 - Boss: SurgeMan
-  Data: 2004-08-05
+  Date: 2004-08-05
   Result: victory
   Ref: Neo-Kamek
 - Boss: Bowser and Koopalings
@@ -629,7 +629,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Anti-Whore (round 1)
-  Data: 2004-08-23
+  Date: 2004-08-23
   Result: victory
   Participants:
     - Atom
@@ -642,7 +642,7 @@
     - scifantasy
   Ref: H_Cuz
 - Boss: Anti-Whore (round 2)
-  Data: 2004-08-23
+  Date: 2004-08-23
   Result: victory
   Participants:
     - Atom
@@ -659,7 +659,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: FlameMan.EXE
-  Data: 2004-08-25
+  Date: 2004-08-25
   Result: victory
   Participants:
     - MechaCrash
@@ -671,7 +671,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Shazar the Dark Sorcerer
-  Data: 2004-08-30
+  Date: 2004-08-30
   Result: victory
   Participants:
     - Atom
@@ -686,7 +686,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: The Dentist
-  Data: 2004-09-01
+  Date: 2004-09-01
   Result: victory
   Participants:
     - Ben-San
@@ -704,7 +704,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Team Boom-Boom (round 1)
-  Data: 2004-09-06
+  Date: 2004-09-06
   Result: bombed
   Participants:
     - MechaCrash
@@ -713,7 +713,7 @@
     - UDX
   Ref: H_Cuz
 - Boss: Team Boom-Boom (round 2)
-  Data: 2004-09-06
+  Date: 2004-09-06
   Result: victory
   Participants:
     - MechaCrash
@@ -726,13 +726,13 @@
   Result: defeat
   Ref: Neo-Kamek
 - Boss: Team Boom-Boom (round 3)
-  Data: 2004-09-08
+  Date: 2004-09-08
   Result: victory
   Participants:
     - NekoIncardine
   Ref: H_Cuz
 - Boss: Boom-Boom Mini-Event
-  Data: 2004-09-14
+  Date: 2004-09-14
   Result: victory
   Participants:
     - NekoIncardine
@@ -747,7 +747,7 @@
     - Unknown
   Ref: H_Cuz
 - Boss: Dark Sorcerer Alliance
-  Data: 2004-09-21
+  Date: 2004-09-21
   Result: victory
   Participants:
     - Sean Kelly
@@ -758,17 +758,17 @@
     - Carter
   Ref: H_Cuz
 - Boss: Team Level 4
-  Data: 2004-09-27
+  Date: 2004-09-27
   Result: defeat
   Ref: H_Cuz
 - Boss: Team Level 4 (rematch)
-  Data: 2004-10-03
+  Date: 2004-10-03
   Result: victory
   Participants:
     - NekoIncardine
   Ref: H_Cuz
 - Boss: Ozma
-  Data: 2004-10-12
+  Date: 2004-10-12
   Result: victory
   Participants:
     - NekoIncardine
@@ -778,7 +778,7 @@
     - Dan
   Ref: H_Cuz
 - Boss: Sandbag
-  Data: 2004-10-17
+  Date: 2004-10-17
   Result: completed
   Participants:
     - Dan
@@ -797,11 +797,11 @@
     - Carter
   Ref: H_Cuz
 - Boss: Kamek (Halloween)
-  Data: 2004-11-02
+  Date: 2004-11-02
   Result: victory
   Ref: H_Cuz
 - Boss: Iris
-  Data: 2004-11-07
+  Date: 2004-11-07
   Result: victory
   Participants:
     - Atom
@@ -810,13 +810,13 @@
     - SSLRranma
   Ref: H_Cuz
 - Boss: Team Chrono Trigger
-  Data: 2004-11-14
+  Date: 2004-11-14
   Result: bombed
   Participants:
     - Cyber Black Yoshi
   Ref: H_Cuz
 - Boss: Doopliss
-  Data: 2004-11-17
+  Date: 2004-11-17
   Result: tie
   Participants:
     - MechaCrash
@@ -824,7 +824,7 @@
     - Carter
   Ref: H_Cuz
 - Boss: Team Chrono Trigger (rematch)
-  Data: 2004-11-23
+  Date: 2004-11-23
   Result: defeat
   Participants:
     - Atom
@@ -833,7 +833,7 @@
     - Sean Kelly
   Ref: H_Cuz
 - Boss: Baroque Works Officer Agents
-  Data: 2004-11-30
+  Date: 2004-11-30
   Result: victory
   Participants:
     - MechaCrash
@@ -848,11 +848,11 @@
     - Carter
   Ref: H_Cuz
 - Boss: Heroes
-  Data: 2004-12-07
+  Date: 2004-12-07
   Result: victory
   Ref: H_Cuz
 - Boss: "Cortez (Paper Mario: The Thousand Year Door)"
-  Data: 2004-12-13
+  Date: 2004-12-13
   Result: victory
   Participants:
     - UDX
@@ -860,7 +860,7 @@
     - Klawkat
   Ref: H_Cuz
 - Boss: MegaMan.EXE, ProtoMan.EXE, Roll.EXE and GutsMan.EXE
-  Data: 2004-12-19
+  Date: 2004-12-19
   Result: defeat
   Participants:
     - Dan
@@ -875,7 +875,7 @@
     - UDX
   Ref: H_Cuz
 - Boss: FireMan.EXE, FreezeMan.EXE, MagnetMan.EXE and PlantMan.EXE
-  Data: 2004-12-26
+  Date: 2004-12-26
   Result: defeat
   Participants:
     - Dan
@@ -888,7 +888,7 @@
     - UDX
   Ref: H_Cuz
 - Boss: ShadeMan.EXE & LaserMan.EXE
-  Data: 2005-01-04
+  Date: 2005-01-04
   Result: victory
   Ref: H_Cuz
 - Boss: Kamek the Magikoopa
@@ -896,11 +896,11 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Trance KtR/Dan
-  Data: 2005-01-10
+  Date: 2005-01-10
   Result: defeat
   Ref: H_Cuz
 - Boss: Princess Jes & Baby Jes (Oldskool)
-  Data: 2005-01-10
+  Date: 2005-01-10
   Result: victory
   Ref: H_Cuz
 - Boss: Shadow Sirens
@@ -908,11 +908,11 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Find SearchMan.EXE!
-  Data: 2005-01-12
+  Date: 2005-01-12
   Result: victory
   Ref: H_Cuz
 - Boss: Bass.EXE SP
-  Data: 2005-01-17
+  Date: 2005-01-17
   Result: victory
   Ref: H_Cuz
 - Boss: Doopliss
@@ -920,7 +920,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: MegaMan.EXE and ProtoMan.EXE SP
-  Data: 2005-01-24
+  Date: 2005-01-24
   Result: victory
   Ref: H_Cuz
 - Boss: Glitz Pit Special
@@ -928,11 +928,11 @@
   Result: bombed
   Ref: Neo-Kamek
 - Boss: MegaMan.EXE and ProtoMan.EXE SP (rematch)
-  Data: 2005-01-31
+  Date: 2005-01-31
   Result: victory
   Ref: H_Cuz
 - Boss: HazardMan
-  Data: 2005-02-02
+  Date: 2005-02-02
   Result: defeat
   Ref: H_Cuz
 - Boss: Vulcanus and the Celestial Host
@@ -940,91 +940,91 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Boston Red Sox
-  Data: 2005-02-07
+  Date: 2005-02-07
   Result: victory
   Ref: H_Cuz
 - Boss: Belichick
-  Data: 2005-02-09
+  Date: 2005-02-09
   Result: victory
   Ref: H_Cuz
 - Boss: M. Bison
-  Data: 2005-03-08
+  Date: 2005-03-08
   Result: victory
   Ref: H_Cuz
 - Boss: Shin Akuma
-  Data: 2005-03-09
+  Date: 2005-03-09
   Result: victory
   Ref: H_Cuz
 - Boss: Minotaur & Omniscient
-  Data: 2005-03-14
+  Date: 2005-03-14
   Result: defeat
   Ref: H_Cuz
 - Boss: Heroes vs Heroes
-  Data: 2005-03-22
+  Date: 2005-03-22
   Result: completed
   Ref: H_Cuz
 - Boss: Zombie Jesus and the Ghost of the Easter Bunny
-  Data: 2005-03-28
+  Date: 2005-03-28
   Result: bombed
   Ref: H_Cuz
 - Boss: Three Generic Demons (Job Class Chaos 2)
-  Data: 2005-03-30
+  Date: 2005-03-30
   Result: victory
   Ref: H_Cuz
 - Boss: Super Bard
-  Data: 2005-04-04
+  Date: 2005-04-04
   Result: bombed
   Ref: H_Cuz
 - Boss: Groggy Monsters
-  Data: 2005-04-06
+  Date: 2005-04-06
   Result: victory
   Ref: H_Cuz
 - Boss: Blue Magic Session
-  Data: 2005-04-11
+  Date: 2005-04-11
   Result: completed
   Ref: H_Cuz
 - Boss: Protect Peach III
-  Data: 2005-04-13
+  Date: 2005-04-13
   Result: victory
   Ref: H_Cuz
 - Boss: Miranda Jyahana
-  Data: 2005-04-18
+  Date: 2005-04-18
   Result: defeat
   Ref: H_Cuz
 - Boss: Afro Batman and Robo-Jesus
-  Data: 2005-04-20
+  Date: 2005-04-20
   Result: defeat
   Ref: H_Cuz
 - Boss: Four Fiends (FF1)
-  Data: 2005-04-27
+  Date: 2005-04-27
   Result: defeat
   Ref: H_Cuz
 - Boss: Superbard and M. Bison
-  Data: 2005-05-02
+  Date: 2005-05-02
   Result: victory
   Ref: H_Cuz
 - Boss: Team Ninja
-  Data: 2005-05-04
+  Date: 2005-05-04
   Result: victory
   Ref: H_Cuz
 - Boss: Miranda Jyahana (rematch)
-  Data: 2005-05-09
+  Date: 2005-05-09
   Result: bombed
   Ref: H_Cuz
 - Boss: Four Fiends (FF1) (rematch)
-  Data: 2005-05-11
+  Date: 2005-05-11
   Result: victory
   Ref: H_Cuz
 - Boss: Superpope and the Jesuses
-  Data: 2005-05-16
+  Date: 2005-05-16
   Result: victory
   Ref: H_Cuz
 - Boss: Ener and their priests
-  Data: 2005-05-18
+  Date: 2005-05-18
   Result: victory
   Ref: H_Cuz
 - Boss: Specialist Squad
-  Data: 2005-05-23
+  Date: 2005-05-23
   Result: defeat
   Ref: H_Cuz
 - Boss: Goblin Squad
@@ -1032,11 +1032,11 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Elmdor and their assassins
-  Data: 2005-05-25
+  Date: 2005-05-25
   Result: defeat
   Ref: H_Cuz
 - Boss: Worker 7
-  Data: 2005-05-25
+  Date: 2005-05-25
   Result: victory
   Ref: H_Cuz
 - Boss: Judgemaster NK
@@ -1048,7 +1048,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Knights of FFT
-  Data: 2005-06-01
+  Date: 2005-06-01
   Result: victory
   Ref: H_Cuz
 - Boss: Postal Dude
@@ -1056,7 +1056,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Miranda Jyahana (rematch 2)
-  Data: 2005-06-06
+  Date: 2005-06-06
   Result: victory
   Ref: H_Cuz
 - Boss: Pimp Daddy Wiegraf '05
@@ -1064,7 +1064,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Minotaur and Omniscient (Fork Tower Edition)
-  Data: 2005-06-08
+  Date: 2005-06-08
   Result: victory
   Ref: H_Cuz
 - Boss: Jesshelper007
@@ -1080,11 +1080,11 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Ener and their priests (rematch)
-  Data: 2005-06-15
+  Date: 2005-06-15
   Result: defeat
   Ref: H_Cuz
 - Boss: Incredible Weenieman
-  Data: 2005-06-20
+  Date: 2005-06-20
   Result: victory
   Ref: H_Cuz
 - Boss: Team Worms
@@ -1096,7 +1096,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Super Mario Bros 2 Bosses
-  Data: 2005-06-22
+  Date: 2005-06-22
   Result: defeat
   Ref: H_Cuz
 - Boss: Magus
@@ -1104,11 +1104,11 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Wart
-  Data: 2005-06-27
+  Date: 2005-06-27
   Result: bombed
   Ref: H_Cuz
 - Boss: Super Mario Bros 2 Heroes
-  Data: 2005-06-29
+  Date: 2005-06-29
   Result: defeat
   Ref: H_Cuz
 - Boss: Blue Magic Session
@@ -1120,7 +1120,7 @@
   Result: bombed
   Ref: Neo-Kamek
 - Boss: The Supreme Court
-  Data: 2005-07-06
+  Date: 2005-07-06
   Result: victory
   Ref: H_Cuz
 - Boss: HazardMan
@@ -1136,15 +1136,15 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Plague (FF4)
-  Data: 2005-07-13
+  Date: 2005-07-13
   Result: victory
   Ref: H_Cuz
 - Boss: Bass.EXE
-  Data: 2005-07-18
+  Date: 2005-07-18
   Result: victory
   Ref: H_Cuz
 - Boss: Night Owl
-  Data: 2005-07-20
+  Date: 2005-07-20
   Result: victory
   Ref: H_Cuz
 - Boss: Wild Magic Arena
@@ -1156,7 +1156,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Dark Bahamut (FF4)
-  Data: 2005-07-27
+  Date: 2005-07-27
   Result: victory
   Ref: H_Cuz
 - Boss: ITEM FUN LOLOL
@@ -1172,7 +1172,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Surge
-  Data: 2005-08-03
+  Date: 2005-08-03
   Result: defeat
   Ref: H_Cuz
 - Boss: "Ocean Palace Miniseries 3: GolemTrio"
@@ -1180,7 +1180,7 @@
   Result: bombed
   Ref: Neo-Kamek
 - Boss: Kent C. Koopa
-  Data: 2005-08-08
+  Date: 2005-08-08
   Result: victory
   Ref: H_Cuz
 - Boss: Speed Demon
@@ -1200,7 +1200,7 @@
   Result: cancelled
   Ref: Neo-Kamek
 - Boss: Liquiflame
-  Data: 2005-08-17
+  Date: 2005-08-17
   Result: defeat
   Ref: H_Cuz
 - Boss: LOL IDIOT
@@ -1208,7 +1208,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Grodus
-  Data: 2005-08-24
+  Date: 2005-08-24
   Result: bombed
   Ref: H_Cuz
 - Boss: Spekkio
@@ -1216,11 +1216,11 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Anti-Whore v2.0
-  Data: 2005-08-31
+  Date: 2005-08-31
   Result: defeat
   Ref: H_Cuz
 - Boss: Frank the Hideously Overpowered Boss
-  Data: 2005-08-31
+  Date: 2005-08-31
   Result: victory
   Ref: H_Cuz
 - Boss: Odolwa
@@ -1232,7 +1232,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Chemist Endurance
-  Data: 2005-09-07
+  Date: 2005-09-07
   Result: bombed
   Ref: H_Cuz
 - Boss: Error 404, the Auto Surge Maker and the Hazard Bar
@@ -1248,7 +1248,7 @@
   Result: bombed
   Ref: Neo-Kamek
 - Boss: Clone Heroes
-  Data: 2005-09-14
+  Date: 2005-09-14
   Result: defeat
   Ref: H_Cuz
 - Boss: Team Worms
@@ -1264,7 +1264,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Hideously Overpowered Frank (rematch)
-  Data: 2005-09-21
+  Date: 2005-09-21
   Result: defeat
   Ref: H_Cuz
 - Boss: X-Zombie-Heroes
@@ -1272,7 +1272,7 @@
   Result: bombed
   Ref: Neo-Kamek
 - Boss: Sleep
-  Data: 2005-09-27
+  Date: 2005-09-27
   Result: victory
   Ref: H_Cuz
 - Boss: PROTECT RAFA LOLOLOL
@@ -1300,7 +1300,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Robo-Ky
-  Data: 2005-10-11
+  Date: 2005-10-11
   Result: victory
   Ref: H_Cuz
 - Boss: All Job Classes
@@ -1312,7 +1312,7 @@
   Result: bombed
   Ref: Neo-Kamek
 - Boss: Heroes vs Heroes III
-  Data: 2005-10-20
+  Date: 2005-10-20
   Result: completed
   Ref: H_Cuz
 - Boss: Radeon
@@ -1324,7 +1324,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Katamari Survival
-  Data: 2005-10-27
+  Date: 2005-10-27
   Result: victory
   Ref: H_Cuz
 - Boss: Trance NKtR
@@ -1340,7 +1340,7 @@
   Result: unknown
   Ref: Neo-Kamek
 - Boss: Afro Batman & Robo-Jesus (rematch)
-  Data: 2005-11-02
+  Date: 2005-11-02
   Result: victory
   Ref: H_Cuz
 - Boss: X-Calculator Death Squad
@@ -1348,7 +1348,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: MUGEN Kamek
-  Data: 2005-11-09
+  Date: 2005-11-09
   Result: bombed
   Ref: H_Cuz
 - Boss: Ash & Pikachu
@@ -1360,7 +1360,7 @@
   Result: bombed
   Ref: Neo-Kamek
 - Boss: Liquiflame
-  Data: 2005-11-16
+  Date: 2005-11-16
   Result: victory
   Ref: H_Cuz
 - Boss: Summon Endurance
@@ -1368,15 +1368,15 @@
   Result: bombed
   Ref: Neo-Kamek
 - Boss: Trance KtR Twins
-  Data: 2005-11-23
+  Date: 2005-11-23
   Result: victory
   Ref: H_Cuz
 - Boss: RAPPS
-  Data: 2005-11-23
+  Date: 2005-11-23
   Result: victory
   Ref: H_Cuz
 - Boss: Don Corneo
-  Data: 2005-11-23
+  Date: 2005-11-23
   Result: victory
   Ref: H_Cuz
 - Boss: Trance Kuja
@@ -1384,7 +1384,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Gi Nattak
-  Data: 2005-11-30
+  Date: 2005-11-30
   Result: victory
   Ref: H_Cuz
 - Boss: Cloaker and Domino
@@ -1396,7 +1396,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Red Dragon (FF7)
-  Data: 2005-12-07
+  Date: 2005-12-07
   Result: victory
   Ref: H_Cuz
 - Boss: Flip's Pokemon Team (rematch)
@@ -1412,7 +1412,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Godo
-  Data: 2005-12-14
+  Date: 2005-12-14
   Result: victory
   Ref: H_Cuz
 - Boss: The Leblanc Syndicate
@@ -1424,7 +1424,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Hideously Overpowered Frank (rematch 2)
-  Data: 2005-12-21
+  Date: 2005-12-21
   Result: victory
   Ref: H_Cuz
 - Boss: Ultima Man
@@ -1432,7 +1432,7 @@
   Result: victory
   Ref: Neo-Kamek
 - Boss: Hanukkah Man
-  Data: 2005-12-28
+  Date: 2005-12-28
   Result: victory
   Ref: H_Cuz
 - Boss: Laharl, Etna, and Flonne
