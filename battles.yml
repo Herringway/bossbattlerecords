@@ -2205,54 +2205,179 @@
   Date: 2006-12-29
   Result: unknown
   Ref: Kafei
+- Boss: Prinny Land 4
+  Date: 2007-01-03
+  Result: defeat
+  Ref: H_Cuz
 - Boss: HazardMan & Surge
   Date: 2007-01-04
   Result: unknown
   Ref: Neo-Kamek
-- Boss: The Gooping
+- Boss: Oozium 238
   Date: 2007-01-08
   Result: victory
   Ref: Neo-Kamek
+- Boss: Gobby the Goblin
+  Date: 2007-01-10
+  Result: victory
+  Ref: H_Cuz
 - Boss: Kamek
   Date: 2007-01-16
   Result: victory
   Ref: Neo-Kamek
+- Boss: Gobby, Gooby, Gabby, Gabe and Sue
+  Date: 2007-01-17
+  Result: defeat
+  Ref: H_Cuz
 - Boss: Team Win, Lose, or Redraw
   Date: 2007-01-23
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Vulcanus (Job Class Chaos)
+  Date: 2007-01-24
+  Result: unknown
+  Ref: H_Cuz
 - Boss: Nizbel
   Date: 2007-01-30
   Result: bombed
   Ref: Neo-Kamek
-- Boss: Tunnel Armor
-  Date: 2007-02-20
+- Boss: Green Devil
+  Date: 2007-01-31
+  Result: victory
+  Ref: H_Cuz
+- Boss: Nizbel (rematch)
+  Date: 2007-02-06
   Result: victory
   Ref: Neo-Kamek
+- Boss: Random Draw Master
+  Date: 2007-02-07
+  Result: tie
+  Ref: H_Cuz
+- Boss: Tunnel Armor
+  Date: 2007-02-13
+  Result: victory
+  Ref: Neo-Kamek
+- Boss: Killer Flora
+  Date: 2007-02-14
+  Result: victory
+  Participants:
+    - Diskmaster
+    - Wolfman2000
+    - Cyber Black Yoshi
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: "Guest Boss Month #1: Trickster"
   Date: 2007-02-20
   Result: victory
   Ref: Neo-Kamek
-- Boss: Nizbel (rematch)
-  Date: 2007-02-26
+- Boss: Doga & Unei
+  Date: 2007-02-21
   Result: victory
-  Ref: Neo-Kamek
+  Participants:
+    - Neo-Kamek
+  Ref: H_Cuz
 - Boss: "Guest Boss Month #2: Cow King"
   Date: 2007-02-27
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Gobby & Penny
+  Date: 2007-02-28
+  Result: victory
+  Ref: H_Cuz
 - Boss: "Guest Boss Month #3: Gigantuar"
   Date: 2007-03-06
   Result: victory
   Ref: Neo-Kamek
+- Boss: Protect Peach
+  Date: 2007-03-07
+  Result: victory
+  Participants:
+    - Gujin_Hisaki
+    - Misty
+    - Wolfman2000
+    - Diskmaster
+    - SSLRranma
+    - Cyber Black Yoshi
+  Ref: H_Cuz
 - Boss: Bardiel
   Date: 2007-03-12
   Result: unknown
   Ref: Kafei
+- Boss: Hein (rematch)
+  Date: 2007-03-13
+  Result: defeat
+  Participants:
+    - Gujin_Hisaki
+    - TIASIAN
+    - Fiora
+  Ref: H_Cuz
 - Boss: "Guest Boss Month #4: Burger Fool"
   Date: 2007-03-20
   Result: unknown
   Ref: Neo-Kamek
+- Boss: K. Rool
+  Date: 2007-03-21
+  Result: victory
+  Participants:
+    - Gujin_Hisaki
+    - Neo-Kamek
+    - Ashton
+    - Cyber Black Yoshi
+    - UDX
+    - SSLRranma
+    - Wolfman2000
+  Ref: H_Cuz
+- Boss: Dr. Robotnik/Eggman
+  Date: 2007-03-28
+  Result: defeat
+  Participants:
+    - SSLRranma
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
+- Boss: Brachiosaur (FF6)
+  Date: 2007-04-04
+  Result: bombed
+  Participants:
+    - Neo-Kamek
+    - Gujin_Hisaki
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
+- Boss: Brachiosaur (FF6) (rematch)
+  Date: 2007-04-11
+  Result: bombed
+  Participants:
+    - Gujin_Hisaki
+    - Ashton
+    - UDX
+    - Neo-Kamek
+    - SSLRranma
+    - Kafei
+    - Mario_Mario
+    - Unknown
+  Ref: H_Cuz
+- Boss: Shy Away & Gigasmilax
+  Date: 2007-04-18
+  Result: defeat
+  Participants:
+    - Wolfman2000
+  Ref: H_Cuz
+- Boss: Shy Away & Gigasmilax (rematch)
+  Date: 2007-04-25
+  Result: defeat
+  Participants:
+    - Wolfman2000
+  Ref: H_Cuz
+- Boss: Sammer Guys
+  Date: 2007-05-02
+  Result: completed
+  Ref: H_Cuz
 - Boss: Quistis (Blue Magic Session)
   Date: 2007-05-04
   Result: defeat
@@ -2260,7 +2385,24 @@
 - Boss: Omega Tiger Woods
   Date: 2007-05-07
   Result: bombed
+  Participants:
+    - H_Cuz
+    - SSLRranma
   Ref: Neo-Kamek
+- Boss: Doga & Unei (rematch 2)
+  Date: 2007-05-09
+  Result: victory
+  Participants:
+    - Wolfman2000
+    - Gujin_Hisaki
+    - Kafei
+    - Cyber Black Yoshi
+    - SSLRranma
+    - Specs
+    - Neo-Kamek
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Burger Fool (AKA Ronald McDonald)
   Date: 2007-05-10
   Result: defeat
@@ -2269,10 +2411,28 @@
   Date: 2007-05-15
   Result: victory
   Ref: Neo-Kamek
+- Boss: Cloud of Darkness
+  Date: 2007-05-16
+  Result: victory
+  Participants:
+    - Gujin_Hisaki
+    - UDX
+    - TIASIAN
+    - Nukos
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Burger Fool (AKA Ronald McDonald) (rematch)
   Date: 2007-05-17
   Result: victory
   Ref: Kafei
+- Boss: Iron Giant (FF3)
+  Date: 2007-05-21
+  Result: victory
+  Participants:
+    - UDX
+    - Specs
+  Ref: H_Cuz
 - Boss: Bowser
   Date: 2007-05-24
   Result: defeat
@@ -2284,10 +2444,39 @@
     - Unknown
     - Unknown
   Ref: Kafei
+- Boss: Bonechill
+  Date: 2007-05-28
+  Result: defeat
+  Participants:
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Yaridovich '07
   Date: 2007-05-29
   Result: victory
+  Participants:
+    - Gujin_Hisaki
+    - Wolfman2000
+    - H_Cuz
+    - SSLRranma
+    - Unknown
   Ref: Neo-Kamek
+- Boss: Bonechill (rematch)
+  Date: 2007-05-30
+  Result: victory
+  Participants:
+    - TIASIAN
+    - Specs
+    - Mario_Mario
+    - Gujin_Hisaki
+    - Wolfman2000
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Feyrbrand
   Date: 2007-05-31
   Result: defeat
@@ -2297,7 +2486,21 @@
 - Boss: Culex '07
   Date: 2007-05-31
   Result: victory
+  Participants:
+    - H_Cuz
   Ref: Neo-Kamek
+- Boss: Giant Robot Battle
+  Date: 2007-06-04
+  Result: victory
+  Participants:
+    - Cyber Black Yoshi
+    - Wolfman2000
+    - Nukos
+    - Specs
+    - Gujin_Hisaki
+    - UDX
+    - SSLRranma
+  Ref: H_Cuz
 - Boss: Anti-Ref & X-Heroes
   Date: 2007-06-07
   Result: defeat
@@ -2321,6 +2524,10 @@
     - Eusine
     - Raikou`
   Ref: Kafei
+- Boss: Prinny Land 5
+  Date: 2007-06-20
+  Result: defeat
+  Ref: H_Cuz
 - Boss: Jenova LIFE
   Date: 2007-06-21
   Result: victory
@@ -2335,6 +2542,10 @@
   Date: 2007-06-26
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Prinny Land 5 (rematch)
+  Date: 2007-06-27
+  Result: defeat
+  Ref: H_Cuz
 - Boss: Fujin & Raijin
   Date: 2007-06-28
   Result: defeat
@@ -2346,6 +2557,18 @@
   Date: 2007-07-03
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Bandit Keith Howard
+  Date: 2007-07-04
+  Result: defeat
+  Participants:
+    - Wolfman2000
+    - Gujin_Hisaki
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Chef Torte, Apprentice & Bundt
   Date: 2007-07-05
   Result: victory
@@ -2357,6 +2580,16 @@
   Date: 2007-07-10
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Bleck's Minions
+  Date: 2007-07-11
+  Result: defeat
+  Participants:
+    - Ashton
+    - Wolfman2000
+    - Diskmaster
+    - Cyber Black Yoshi
+    - UDX
+  Ref: H_Cuz
 - Boss: Seymour & Mortibody
   Date: 2007-07-12
   Result: defeat
@@ -2374,7 +2607,26 @@
 - Boss: "Christmas In July '07: Mad Santa"
   Date: 2007-07-17
   Result: bombed
+  Participants:
+    - Wolfman2000
+    - Kafei
+    - SSLRranma
   Ref: Neo-Kamek
+- Boss: Bleck's Minions (rematch)
+  Date: 2007-07-18
+  Result: defeat
+  Participants:
+    - Wolfman2000
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Kuja
   Date: 2007-07-19
   Result: victory
@@ -2386,6 +2638,20 @@
   Date: 2007-07-24
   Result: victory
   Ref: Neo-Kamek
+- Boss: Trance KtR
+  Date: 2007-07-25
+  Result: victory
+  Participants:
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+- Boss: Specs' Monk Squad
+  Date: 2007-07-25
+  Result: defeat
+  Ref: H_Cuz
 - Boss: Kuja (rematch)
   Date: 2007-07-26
   Result: defeat
@@ -2394,9 +2660,23 @@
     - Eusine
     - Sharu
   Ref: Kafei
+- Boss: Goomba King
+  Date: 2007-08-01
+  Result: victory
+  Ref: H_Cuz
 - Boss: Bowser and the Koopa Troop
   Date: 2007-08-02
   Result: defeat
+  Participants:
+    - Avlein
+    - Electric
+    - LeafKirby
+    - Stiqfigurmaster
+    - Diskmaster
+    - SSLRranma
+    - Travis the Sage
+    - Gujin_Hisaki
+    - Rakkz
   Ref: Neo-Kamek
 - Boss: Lost Number
   Date: 2007-08-02
@@ -2407,14 +2687,33 @@
     - mikau
     - Miff
   Ref: Kafei
+- Boss: Vulcanus
+  Date: 2007-08-08
+  Result: victory
+  Participants:
+    - Gujin_Hisaki
+    - Wolfman2000
+  Ref: H_Cuz
 - Boss: Tritoch/Valigarmanda
   Date: 2007-08-09
   Result: unknown
   Ref: Kafei
+- Boss: Gen 1 Starters
+  Date: 2007-08-15
+  Result: victory
+  Participants:
+    - Stiqfigurmaster
+    - Electric
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Tritoch/Valigarmanda (rematch)
   Date: 2007-08-16
   Result: defeat
   Ref: Kafei
+- Boss: Gen 1 Starters (rematch)
+  Date: 2007-08-22
+  Result: cancelled
+  Ref: H_Cuz
 - Boss: Kakuge Squad
   Date: 2007-08-23
   Result: bombed
@@ -2427,6 +2726,14 @@
   Date: 2007-08-28
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Gen 1 Starters (rematch 2)
+  Date: 2007-08-29
+  Result: victory
+  Participants:
+    - Gujin_Hisaki
+    - Ashton
+    - Darkheart
+  Ref: H_Cuz
 - Boss: Shadow Lord
   Date: 2007-08-30
   Result: victory
@@ -2434,14 +2741,56 @@
     - Eusine
     - Washuu
   Ref: Kafei
+- Boss: Trance NKtR '07
+  Date: 2007-09-04
+  Result: unknown
+  Ref: Neo-Kamek
+- Boss: Bosses vs. Bosses
+  Date: 2007-09-04
+  Result: completed
+  Ref: Neo-Kamek
+- Boss: Saya
+  Date: 2007-09-05
+  Result: victory
+  Participants:
+    - Ashton
+    - Canadian Yosheh
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Wendigo (Final Fantasy X)
   Date: 2007-09-06
   Result: defeat
   Ref: Kafei
+- Boss: Prinny Land 1 (Anniversary Edition)
+  Date: 2007-09-11
+  Result: victory
+  Participants:
+    - SSLRranma
+    - Darkheart
+    - Cyber Black Yoshi
+    - Nukos
+    - Specs
+    - Wolfman2000
+    - Ashton
+    - TIASIAN
+    - Mario_Mario
+    - Canadian Yosheh
+  Ref: H_Cuz
 - Boss: AT&T
   Date: 2007-09-18
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Ruffian (Pirate Day)
+  Date: 2007-09-19
+  Result: victory
+  Participants:
+    - Darkheart
+    - Gujin_Hisaki
+    - Mario_Mario
+    - Cyber Black Yoshi
+    - Specs
+    - Ashton
+  Ref: H_Cuz
 - Boss: Random Job Endurance
   Date: 2007-09-20
   Result: bombed
@@ -2449,14 +2798,21 @@
     - Biiaru
     - Branc
   Ref: Kafei
-- Boss: Trance NKtR '07
+- Boss: Barry Bonds & Reggie Bush
   Date: 2007-09-25
-  Result: unknown
-  Ref: Neo-Kamek
-- Boss: Bosses vs. Bosses
-  Date: 2007-09-25
-  Result: completed
-  Ref: Neo-Kamek
+  Result: victory
+  Participants:
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Mariel & Rudnik (Protect Umbry)
   Date: 2007-09-27
   Result: defeat
@@ -2474,6 +2830,21 @@
   Participants:
     - Eusine
   Ref: Kafei
+- Boss: Samurai Brothers
+  Date: 2007-10-08
+  Result: bombed
+  Participants:
+    - TIASIAN
+    - Wolfman2000
+    - SSLRranma
+    - Cyber Black Yoshi
+    - Neo-Kamek
+    - Diskmaster
+  Ref: H_Cuz
+- Boss: Saya (rematch)
+  Date: 2007-10-10
+  Result: defeat
+  Ref: H_Cuz
 - Boss: Trickster
   Date: 2007-10-11
   Result: defeat
@@ -2492,6 +2863,12 @@
   Date: 2007-10-16
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Shinobi Brothers
+  Date: 2007-10-17
+  Result: victory
+  Participants:
+    - Ashton
+  Ref: H_Cuz
 - Boss: Skullpion
   Date: 2007-10-18
   Result: defeat
@@ -2508,12 +2885,34 @@
   Date: 2007-10-23
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Pokemon Trainers
+  Date: 2007-10-24
+  Result: defeat
+  Participants:
+    - Wolfman2000
+    - TIASIAN
+    - Neo-Kamek
+    - Mario_Mario
+  Ref: H_Cuz
 - Boss: Gerogero
   Date: 2007-10-25
   Result: victory
   Participants:
     - Ashton
   Ref: Kafei
+- Boss: Ruffian (Halloween Edition)
+  Date: 2007-10-31
+  Result: victory
+  Participants:
+    - Kafei
+    - Neo-Kamek
+    - TIASIAN
+    - Wolfman2000
+    - Cyber Black Yoshi
+    - UDX
+    - Gujin_Hisaki
+    - Darkheart
+  Ref: H_Cuz
 - Boss: Xeboc (rematch 2)
   Date: 2007-11-01
   Result: victory
@@ -2530,6 +2929,15 @@
   Date: 2007-11-06
   Result: victory
   Ref: Neo-Kamek
+- Boss: Pokemon Trainers (rematch)
+  Date: 2007-11-07
+  Result: victory
+  Participants:
+    - UDX
+    - Cyber Black Yoshi
+    - Gujin_Hisaki
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Elidibs
   Date: 2007-11-08
   Result: victory
@@ -2542,24 +2950,143 @@
   Date: 2007-11-13
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Shadaloo Elite
+  Date: 2007-11-14
+  Result: victory
+  Participants:
+    - Neo-Kamek
+    - Darkheart
+    - Ashton
+    - Specs
+    - Wolfman2000
+    - Gujin_Hisaki
+    - Mario_Mario
+    - Travis the Sage
+    - Kafei
+    - SSLRranma
+  Ref: H_Cuz
 - Boss: Endurance (rematch)
   Date: 2007-11-15
   Result: victory
   Participants:
     - Washuu
   Ref: Kafei
+- Boss: Metro City Melee
+  Date: 2007-11-19
+  Result: victory
+  Participants:
+    - Darkheart
+    - Canadian Yosheh
+    - Neo-Kamek
+    - Ashton
+    - Specs
+    - Wolfman2000
+    - Mario_Mario
+    - Travis the Sage
+    - SSLRranma
+    - TIASIAN
+    - Locos Docos
+    - UDX
+  Ref: H_Cuz
 - Boss: "Bloobelarc '07 #3: 8500 Life Man"
   Date: 2007-11-20
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Metro City Tournament
+  Date: 2007-11-21
+  Result: completed
+  Participants:
+    - Ashton
+    - Nukos
+    - SSLRranma
+    - UDX
+    - Travis the Sage
+    - Kafei
+    - Gujin_Hisaki
+    - Specs
+    - Locos Docos
+    - NekoIncardine
+    - TIASIAN
+    - Darkheart
+    - Mario_Mario
+    - Neo-Kamek
+    - Wolfman2000
+  Ref: H_Cuz
+- Boss: Ryu & Ken
+  Date: 2007-11-26
+  Result: victory
+  Participants:
+    - Neo-Kamek
+    - Darkheart
+    - Ashton
+    - Specs
+    - Wolfman2000
+    - Mario_Mario
+    - Travis the Sage
+    - SSLRranma
+    - Gujin_Hisaki
+    - TIASIAN
+    - UDX
+    - Canadian Yosheh
+  Ref: H_Cuz
 - Boss: "Bloobelarc '07 #4: Split Screen Action"
   Date: 2007-11-27
   Result: victory
   Ref: Neo-Kamek
+- Boss: Evil Ryu & Akuma
+  Date: 2007-11-28
+  Result: defeat
+  Participants:
+    - Darkheart
+    - Ashton
+    - Specs
+    - Wolfman2000
+    - Mario_Mario
+    - Travis the Sage
+    - SSLRranma
+    - Tizzy
+    - Gujin_Hisaki
+    - TIASIAN
+    - UDX
+    - Locos Docos
+    - Kafei
+  Ref: H_Cuz
 - Boss: Atomos
   Date: 2007-11-29
   Result: defeat
   Ref: Kafei
+- Boss: Charlie Nash & Chun-Li
+  Date: 2007-12-03
+  Result: bombed
+  Participants:
+    - Darkheart
+    - Ashton
+    - Wolfman2000
+    - Mario_Mario
+    - Travis the Sage
+    - SSLRranma
+    - Gujin_Hisaki
+    - TIASIAN
+    - UDX
+    - Locos Docos
+  Ref: H_Cuz
+- Boss: Charlie Nash & Chun-Li (rematch)
+  Date: 2007-12-05
+  Result: victory
+  Participants:
+    - Darkheart
+    - Ashton
+    - Wolfman2000
+    - Travis the Sage
+    - SSLRranma
+    - Gujin_Hisaki
+    - TIASIAN
+    - UDX
+    - Specs
+    - Locos Docos
+    - Neo-Kamek
+    - Cyber Black Yoshi
+  Ref: H_Cuz
 - Boss: "Bloobelarc '07 #5: Training Time"
   Date: 2007-12-06
   Result: victory
@@ -2577,6 +3104,21 @@
     - Evvie
     - Washuu
   Ref: Kafei
+- Boss: Bison's Dolls
+  Date: 2007-12-10
+  Result: victory
+  Participants:
+    - UDX
+    - Cyber Black Yoshi
+    - Darkheart
+    - Specs
+    - SSLRranma
+    - Gujin_Hisaki
+    - TIASIAN
+    - Mario_Mario
+    - Locos Docos
+    - Neo-Kamek
+  Ref: H_Cuz
 - Boss: The Lake
   Date: 2007-12-10
   Result: victory
@@ -2593,6 +3135,22 @@
   Date: 2007-12-11
   Result: victory
   Ref: Neo-Kamek
+- Boss: M. Bison
+  Date: 2007-12-12
+  Result: victory
+  Participants:
+    - Travis the Sage
+    - UDX
+    - Specs
+    - Neo-Kamek
+    - Ashton
+    - Gujin_Hisaki
+    - Mario_Mario
+    - Tizzy
+    - TIASIAN
+    - Wolfman2000
+    - SSLRranma
+  Ref: H_Cuz
 - Boss: Pikachuinapeartree
   Date: 2007-12-12
   Result: defeat
@@ -2609,6 +3167,18 @@
     - Raikou`
     - DJ
   Ref: Kafei
+- Boss: Bowser & Kamek
+  Date: 2007-12-19
+  Result: victory
+  Participants:
+    - Neo-Kamek
+    - Ashton
+    - TIASIAN
+    - Gujin_Hisaki
+    - Locos Docos
+    - Cyber Black Yoshi
+    - UDX
+  Ref: H_Cuz
 - Boss: Channel Bots
   Date: 2007-12-20
   Result: defeat
@@ -2626,6 +3196,13 @@
     - Gujin_Hisaki
     - Zeeky
   Ref: Kafei
+- Boss: Evil Ryu & Akuma
+  Date: 2007-12-26
+  Result: victory
+  Participants:
+    - Canadian Yosheh
+    - Cyber Black Yoshi
+  Ref: H_Cuz
 - Boss: Jack Frost
   Date: 2007-12-27
   Result: cancelled
@@ -3618,7 +4195,7 @@
     - Wolfman2000
     - Slash
     - Perona
-    - Gujin
+    - Gujin_Hisaki
   Ref: Kafei
 - Boss: Tubba Blubba's Heart
   Date: 2009-09-03
@@ -3698,7 +4275,7 @@
     - Kyoji
     - Sharu
     - Doak
-    - Gujin
+    - Gujin_Hisaki
     - SSLRranma
   Ref: Evvie
 - Boss: Shroobs (rematch)
@@ -3718,7 +4295,7 @@
     - Misty
     - Varna
     - Perona
-    - Gujin
+    - Gujin_Hisaki
     - Meta
     - Doak
     - SSLRranma
@@ -3998,7 +4575,7 @@
     - TIASIAN
     - Varna
     - Church
-    - Gujin
+    - Gujin_Hisaki
     - Riddle
     - Eusine
   Ref: Kafei
@@ -4021,7 +4598,7 @@
     - TIASIAN
     - Varna
     - Church
-    - Gujin
+    - Gujin_Hisaki
     - Riddle
     - Evvie
   Ref: Kafei
