@@ -3211,6 +3211,10 @@
   Date: 2008-01-01
   Result: victory
   Ref: Neo-Kamek
+- Boss: Saya (Rematch)
+  Date: 2008-01-02
+  Result: victory
+  Ref: H_Cuz
 - Boss: User404's flunkies
   Date: 2008-01-03
   Result: defeat
@@ -3227,6 +3231,12 @@
   Date: 2008-01-08
   Result: victory
   Ref: Neo-Kamek
+- Boss: Shy Away & Gigasmilax (rematch 2)
+  Date: 2008-01-09
+  Result: defeat
+  Participants:
+    - Specs
+  Ref: H_Cuz
 - Boss: User404 & Magna
   Date: 2008-01-10
   Result: victory
@@ -3239,6 +3249,22 @@
     - Eusine
     - Riddle
   Ref: Kafei
+- Boss: Infernal Village
+  Date: 2008-01-16
+  Result: victory
+  Participants:
+    - Cyber Black Yoshi
+    - Mario_Mario
+    - TarenWanderer
+    - Nukos
+    - TIASIAN
+    - UDX
+    - Locos Docos
+    - Sean Kelly
+    - Wolfman2000
+    - Unknown
+    - Gujin
+  Ref: H_Cuz
 - Boss: X-Heroes
   Date: 2008-01-17
   Result: victory
@@ -3256,6 +3282,34 @@
   Date: 2008-01-22
   Result: vistory
   Ref: Neo-Kamek
+- Boss: Trance KtR
+  Date: 2008-01-23
+  Result: defeat
+  Participants:
+    - Cyber Black Yoshi
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
+- Boss: Giga Wart
+  Date: 2008-01-23
+  Result: victory
+  Participants:
+    - Cyber Black Yoshi
+    - Wolfman2000
+    - SSLRranma
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Goemon Ishikawa
   Date: 2008-01-24
   Result: victory
@@ -3266,7 +3320,13 @@
 - Boss: Fubugrass V2
   Date: 2008-01-29
   Result: victory
+  Participants:
+    - Cyber Black Yoshi
   Ref: Neo-Kamek
+- Boss: Bleck's Minions (rematch 2)
+  Date: 2008-01-30
+  Result: defeat
+  Ref: H_Cuz
 - Boss: Ramiel
   Date: 2008-01-31
   Result: defeat
@@ -3276,7 +3336,24 @@
 - Boss: Monday-Tuesday-Wednesday-Thursday-Friday-Saturday-Sunday
   Date: 2008-02-05
   Result: victory
+  Participants:
+    - H_Cuz
+    - Ashton
+    - Travis the Sage
+    - Darkheart
   Ref: Neo-Kamek
+- Boss: Infernal Village (rematch)
+  Date: 2008-02-06
+  Result: victory
+  Participants:
+    - Wolfman2000
+    - Neo-Kamek
+    - Cyber Black Yoshi
+    - TarenWanderer
+    - Metal_Man88
+    - SSLRranma
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Dialga & Palkia
   Date: 2008-02-07
   Result: victory
@@ -3287,10 +3364,29 @@
   Date: 2008-02-12
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Bundt
+  Date: 2008-02-13
+  Result: victory
+  Participants:
+    - Cyber Black Yoshi
+  Ref: H_Cuz
 - Boss: "Guest Boss Month '08 #1: Boomer (Travis)"
   Date: 2008-02-19
   Result: victory
+  Participants:
+    - H_Cuz
   Ref: Neo-Kamek
+- Boss: The Commando Team
+  Date: 2008-02-20
+  Result: defeat
+  Participants:
+    - Metal_Man88
+    - Wolfman2000
+    - Neo-Kamek
+    - Cyber Black Yoshi
+    - Specs
+    - SSLRranma
+  Ref: H_Cuz
 - Boss: Diablo
   Date: 2008-02-21
   Result: bombed
@@ -3300,7 +3396,23 @@
 - Boss: "Guest Boss Month '08 #2: Gigatogs (TIASIAN)"
   Date: 2008-02-26
   Result: victory
+  Participants:
+    - H_Cuz
+    - Ashton
+    - Locos Docos
+    - Wolfman2000
+    - Travis the Sage
   Ref: Neo-Kamek
+- Boss: Bouldergeist
+  Date: 2008-02-27
+  Result: bombed
+  Participants:
+    - Darkheart
+    - TIASIAN
+    - SSLRranma
+    - Mario_Mario
+    - Cyber Black Yoshi
+  Ref: H_Cuz
 - Boss: Mewtwo
   Date: 2008-02-28
   Result: victory
@@ -3313,6 +3425,13 @@
   Date: 2008-03-04
   Result: victory
   Ref: Neo-Kamek
+- Boss: Hideously Overpowered Frank
+  Date: 2008-03-05
+  Result: victory
+  Participants:
+    - Wolfman2000
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Rosenatta
   Date: 2008-03-06
   Result: unknown
@@ -3321,6 +3440,17 @@
   Date: 2008-03-11
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Tourneytards
+  Date: 2008-03-12
+  Result: defeat
+  Participants:
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Shadow Bowser & Mewtwo
   Date: 2008-03-13
   Result: defeat
@@ -3334,6 +3464,12 @@
   Date: 2008-03-18
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Ruffian (Samurai Guardian Edition)
+  Date: 2008-03-19
+  Result: defeat
+  Participants:
+    - SSLRranma
+  Ref: H_Cuz
 - Boss: Heavy Lobster, Waddle Dee & Waddle Doo
   Date: 2008-03-20
   Result: defeat
@@ -3342,10 +3478,28 @@
   Date: 2008-03-25
   Result: unknown
   Ref: Neo-Kamek
+- Boss: Ruffian (Samurai Guardian Edition) (rematch)
+  Date: 2008-03-26
+  Result: victory
+  Participants:
+    - Ashton
+    - Locos Docos
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Victor & Mojo
   Date: 2008-03-27
   Result: victory
   Ref: Kafei
+- Boss: Benny Ben Ben The Talking Sock (Wild Mage Guardian Edition)
+  Date: 2008-04-02
+  Result: victory
+  Participants:
+    - Canadian Yosheh
+    - Mario_Mario
+    - SSLRranma
+    - Wolfman2000
+    - Unknown
+  Ref: H_Cuz
 - Boss: Shredder
   Date: 2008-04-03
   Result: unknown
@@ -3354,10 +3508,18 @@
   Date: 2008-04-08
   Result: victory
   Ref: Neo-Kamek
+- Boss: Zombie Brachiosaur (Zombie Guardian Edition)
+  Date: 2008-04-09
+  Result: victory
+  Ref: H_Cuz
 - Boss: Verdandi, Urd & Skuld
   Date: 2008-04-10
   Result: bombed
   Ref: Kafei
+- Boss: Shin Akuma (Defensive Specialist Guardian Edition)
+  Date: 2008-04-16
+  Result: victory
+  Ref: H_Cuz
 - Boss: Ultimech Alpha
   Date: 2008-04-17
   Result: bombed
@@ -3366,6 +3528,21 @@
   Date: 2008-04-22
   Result: victory
   Ref: Neo-Kamek
+- Boss: Mecha-Kamek and Mecha-Kammy v2.0 (Giant Robot Guardian Edition)
+  Date: 2008-04-23
+  Result: bombed
+  Participants:
+    - Cyber Black Yoshi
+    - Locos Docos
+    - Specs
+    - Darkheart
+    - Canadian Yosheh
+    - Ashton
+    - Unknown
+    - Unknown
+    - Unknown
+    - Mario_Mario
+  Ref: H_Cuz
 - Boss: Lynx & Harle
   Date: 2008-04-24
   Result: bombed
@@ -3374,10 +3551,18 @@
   Date: 2008-04-29
   Result: victory
   Ref: Neo-Kamek
+- Boss: Odin (Offensive Specialist Guardian Edition)
+  Date: 2008-04-30
+  Result: victory
+  Ref: H_Cuz
 - Boss: Kamek & Pokemon
   Date: 2008-05-06
   Result: victory
   Ref: Neo-Kamek
+- Boss: Mecha-Kamek and Mecha-Kammy v2.0 (Giant Robot Guardian Edition) (rematch)
+  Date: 2008-05-07
+  Result: defeat
+  Ref: H_Cuz
 - Boss: Department Store Spook (rematch)
   Date: 2008-05-08
   Result: victory
@@ -3392,6 +3577,17 @@
   Date: 2008-05-13
   Result: victory
   Ref: Neo-Kamek
+- Boss: Bouldergeist (rematch)
+  Date: 2008-05-14
+  Result: bombed
+  Participants:
+    - Cyber Black Yoshi
+    - Nukos
+    - Canadian Yosheh
+    - Wolfman2000
+    - UDX
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Ozma
   Date: 2008-05-15
   Result: unknown
@@ -3400,6 +3596,16 @@
   Date: 2008-05-20
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Kamek The Ref? (Amnesiac Guardian Edition)
+  Date: 2008-05-21
+  Result: victory
+  Participants:
+    - Cyber Black Yoshi
+    - Kafei
+    - Gujin_Hisaki
+    - Mario_Mario
+    - Neo-Kamek
+  Ref: H_Cuz
 - Boss: White Fiend
   Date: 2008-05-22
   Result: defeat
@@ -3417,10 +3623,22 @@
   Date: 2008-05-27
   Result: defeat
   Ref: Neo-Kamek
+- Boss: MagicMan.EXE (MageNavi Guardian Edition)
+  Date: 2008-06-02
+  Result: victory
+  Ref: H_Cuz
 - Boss: Ozzie, Slash and Flea (rematch)
   Date: 2008-06-03
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Mecha-Kamek and Mecha-Kammy v2.0 (Giant Robot Guardian Edition) (rematch 2)
+  Date: 2008-06-04
+  Result: victory
+  Participants:
+    - Neo-Kamek
+    - TarenWanderer
+    - Cyber Black Yoshi
+  Ref: H_Cuz
 - Boss: White Fiend (rematch)
   Date: 2008-06-05
   Result: victory
@@ -3435,6 +3653,12 @@
   Date: 2008-06-10
   Result: victory
   Ref: Neo-Kamek
+- Boss: Bleck's Minions (rematch)
+  Date: 2008-06-11
+  Result: victory
+  Participants:
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Ronald McDonald & The Hamburglar
   Date: 2008-06-12
   Result: bombed
@@ -3447,6 +3671,19 @@
   Date: 2008-06-17
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Shy Away & Gigasmilax (rematch)
+  Date: 2008-06-18
+  Result: victory
+  Participants:
+    - Canadian Yosheh
+    - TIASIAN
+    - SSLRranma
+    - Unknown
+    - Ashton
+    - Tizzy
+    - Mario_Mario
+    - Gujin_Hisaki
+  Ref: H_Cuz
 - Boss: Ronald McDonald & The Hamburglar (rematch)
   Date: 2008-06-19
   Result: defeat
@@ -3469,6 +3706,10 @@
   Date: 2008-06-24
   Result: victory
   Ref: Neo-Kamek
+- Boss: Bouldergeist (rematch 2)
+  Date: 2008-06-25
+  Result: bombed
+  Ref: H_Cuz
 - Boss: Quistis
   Date: 2008-06-26
   Result: defeat
@@ -3489,6 +3730,20 @@
   Date: 2008-07-01
   Result: defeat
   Ref: Neo-Kamek
+- Boss: Tourneytards (rematch)
+  Date: 2008-07-02
+  Result: victory
+  Participants:
+    - Gujin_Hisaki
+    - Mario_Mario
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Kafei
+  Ref: H_Cuz
 - Boss: User404
   Date: 2008-07-03
   Result: victory
@@ -3508,6 +3763,14 @@
     - Branc
     - Riddle
   Ref: Evvie
+- Boss: The Commando Team (rematch)
+  Date: 2008-07-09
+  Result: bombed
+  Participants:
+    - Neo-Kamek
+    - Wolfman2000
+    - Gujin_Hisaki
+  Ref: H_Cuz
 - Boss: Poltergeist
   Date: 2008-07-10
   Result: bombed
@@ -3525,6 +3788,13 @@
   Date: 2008-07-12
   Result: defeat
   Ref: Evvie
+- Boss: Bass.EXE
+  Date: 2008-07-16
+  Result: defeat
+  Participants:
+    - Gujin_Hisaki
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Sorceress Adel
   Date: 2008-07-17
   Result: defeat
@@ -3544,10 +3814,20 @@
   Date: 2008-07-21
   Result: victory
   Ref: Evvie
+- Boss: Mokura
+  Date: 2008-07-23
+  Result: defeat
+  Participants:
+    - Mario_Mario
+  Ref: H_Cuz
 - Boss: "Bloobelarc '08 #1: 85,000 Life Man"
   Date: 2008-07-29
   Result: victory
   Ref: Neo-Kamek
+- Boss: Mokura (rematch)
+  Date: 2008-07-30
+  Result: cancelled
+  Ref: H_Cuz
 - Boss: Cúchulainn
   Date: 2008-07-31
   Result: victory
@@ -3556,6 +3836,24 @@
   Date: 2008-08-05
   Result: victory
   Ref: Neo-Kamek
+- Boss: Mokura (rematch 2)
+  Date: 2008-08-04
+  Result: victory
+  Participants:
+    - Locos Docos
+    - SSLRranma
+    - Kafei
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
+- Boss: Bass.EXE (rematch)
+  Date: 2008-08-06
+  Result: victory
+  Participants:
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: Ronald McDonald & The Hamburglar (rematch)
   Date: 2008-08-07
   Result: bombed
@@ -3574,10 +3872,30 @@
   Date: 2008-08-12
   Result: victory
   Ref: Neo-Kamek
+- Boss: Bass.EXE (rematch 2)
+  Date: 2008-08-13
+  Result: victory
+  Participants:
+    - Locos Docos
+  Ref: H_Cuz
 - Boss: "Bloobelarc '08 #4: X-N-001 and X-5-001"
   Date: 2008-08-19
   Result: victory
   Ref: Neo-Kamek
+- Boss: Seraph Lamington
+  Date: 2008-08-20
+  Result: defeat
+  Participants:
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: "Bloobelarc '08 #5: X-DS-001 and X-DS-002"
   Date: 2008-08-21
   Result: defeat
@@ -3598,6 +3916,14 @@
   Date: 2008-08-28
   Result: completed
   Ref: Neo-Kamek
+- Boss: Criminal Superhuman Genocide
+  Date: 2008-08-28
+  Result: defeat
+  Participants:
+    - Ashton
+    - Kafei
+    - Wolfman2000
+  Ref: H_Cuz
 - Boss: AP Chemistry and AP Biology
   Date: 2008-09-01
   Result: victory
@@ -3614,6 +3940,18 @@
   Date: 2008-09-02
   Result: victory
   Ref: Neo-Kamek
+- Boss: Kamella
+  Date: 2008-09-03
+  Result: victory
+  Participants:
+    - Neo-Kamek
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
 - Boss: "Bloobelarc '08 #7c: Food fight"
   Date: 2008-09-04
   Result: completed
@@ -3622,10 +3960,28 @@
   Date: 2008-09-09
   Result: victory
   Ref: Neo-Kamek
+- Boss: Duon & Galleom
+  Date: 2008-09-10
+  Result: victory
+  Participants:
+    - Evvie
+  Ref: H_Cuz
 - Boss: Neuro
   Date: 2008-09-16
   Result: bombed
   Ref: Evvie
+- Boss: Tempest
+  Date: 2008-09-17
+  Result: victory
+  Participants:
+    - Wolfman2000
+    - SSLRranma
+    - TIASIAN
+    - Dragoshi
+    - Mario_Mario
+    - Cyber Black Yoshi
+    - Kafei
+  Ref: H_Cuz
 - Boss: Species 8472
   Date: 2008-09-19
   Result: defeat
@@ -3636,6 +3992,13 @@
     - Greeves
     - Mario_Mario
   Ref: Kafei
+- Boss: Zouna & Kamuz
+  Date: 2008-09-24
+  Result: victory
+  Participants:
+    - TIASIAN
+    - Cyber Black Yoshi
+  Ref: H_Cuz
 - Boss: Agahnim
   Date: 2008-09-25
   Result: defeat
@@ -3645,6 +4008,15 @@
     - Church
     - Sharu
   Ref: Kafei
+- Boss: Criminal Superhuman Genocide (rematch)
+  Date: 2008-10-01
+  Result: defeat
+  Participants:
+    - Evvie
+    - Wolfman2000
+    - Neo-Kamek
+    - Dragoshi
+  Ref: H_Cuz
 - Boss: Petey Piranha
   Date: 2008-10-02
   Result: victory
@@ -3663,6 +4035,13 @@
     - TIASIAN
     - Evvie
   Ref: Kafei
+- Boss: Zombie Brachiosaur
+  Date: 2008-10-06
+  Result: victory
+  Participants:
+    - Locos Docos
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Catch Rayquaza
   Date: 2008-10-09
   Result: victory
@@ -3681,6 +4060,10 @@
     - TIASIAN
     - Evvie
   Ref: Kafei
+- Boss: Seraph Lamington (rematch)
+  Date: 2008-10-15
+  Result: defeat
+  Ref: H_Cuz
 - Boss: Mrs. Culver
   Date: 2008-10-15
   Result: victory
@@ -3721,6 +4104,25 @@
     - Kyoji
     - Branc
   Ref: Evvie
+- Boss: Seraph Lamington (rematch 2)
+  Date: 2008-10-22
+  Result: defeat
+  Participants:
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
+  Ref: H_Cuz
+- Boss: Goomba King
+  Date: 2008-10-22
+  Result: defeat
+  Participants:
+    - TIASIAN
+  Ref: H_Cuz
 - Boss: Porky
   Date: 2008-10-23
   Result: defeat
@@ -3752,6 +4154,19 @@
     - Doak
     - Slash
   Ref: Kafei
+- Boss: Miracle Matter
+  Date: 2008-11-05
+  Result: victory
+  Participants:
+    - Wolfman2000
+    - Cyber Black Yoshi
+    - Gujin_Hisaki
+    - TIASIAN
+    - Neo-Kamek
+    - Ashton
+    - Diskmaster
+    - Riddle
+  Ref: H_Cuz
 - Boss: Galleom
   Date: 2008-11-06
   Result: victory
@@ -3768,6 +4183,16 @@
     - Kyoji
     - Greeves
   Ref: Kafei
+- Boss: Criminal Superhuman Genocide (rematch 2)
+  Date: 2008-11-10
+  Result: victory
+  Participants:
+    - Wolfman2000
+    - UDX
+    - Neo-Kamek
+    - TIASIAN
+    - Evvie
+  Ref: H_Cuz
 - Boss: Bongo Bongo (rematch)
   Date: 2008-11-11
   Result: defeat
@@ -3778,6 +4203,13 @@
     - Gujin_Hisaki
     - Sharu
   Ref: Evvie
+- Boss: The Commando Team (rematch 2)
+  Date: 2008-11-12
+  Result: victory
+  Participants:
+    - Mario_Mario
+    - SSLRranma
+  Ref: H_Cuz
 - Boss: Shadow Bowser and Shadow Mewtwo
   Date: 2008-11-13
   Result: victory
@@ -3804,6 +4236,13 @@
     - Unknown
     - Unknown
   Ref: Evvie
+- Boss: Final Fantasy 4 Heroes
+  Date: 2008-11-19
+  Result: defeat
+  Participants:
+    - Canadian Yosheh
+    - SSLRranma
+  Ref: H_Cuz
 - Boss: Ridley
   Date: 2008-11-20
   Result: victory
@@ -3830,10 +4269,22 @@
     - Kyoji
     - Greeves
   Ref: Kafei
+- Boss: Elemental Archfiend Scarmiglione
+  Date: 2008-12-01
+  Result: victory
+  Participants:
+    - Riddle
+    - Cyber Black Yoshi
+    - Locos Docos
+  Ref: H_Cuz
 - Boss: "Side A System Trials 1/4: Pimp Daddy Wiegraf"
   Date: 2008-12-02
   Result: bombed
   Ref: Neo-Kamek
+- Boss: Elemental Archfiend Cagnazzo
+  Date: 2008-12-03
+  Result: victory
+  Ref: H_Cuz
 - Boss: X-Heroes
   Date: 2008-12-04
   Result: victory
@@ -3852,6 +4303,10 @@
   Date: 2008-12-09
   Result: victory
   Ref: Neo-Kamek
+- Boss: Elemental Archfiend Barbariccia
+  Date: 2008-12-10
+  Result: victory
+  Ref: H_Cuz
 - Boss: Giegue and the Starmen
   Date: 2008-12-11
   Result: defeat
@@ -3867,10 +4322,28 @@
     - Greeves
     - Doak
   Ref: Kafei
+- Boss: Trance KtR
+  Date: 2008-12-15
+  Result: victory
+  Ref: H_Cuz
+- Boss: Elemental Archfiend Rubicante
+  Date: 2008-12-15
+  Result: defeat
+  Ref: H_Cuz
 - Boss: "Side A System Trials 3/4: Offensive Skills Test"
   Date: 2008-12-16
   Result: completed
   Ref: Neo-Kamek
+- Boss: Dr. Lugae & Barnabas
+  Date: 2008-12-17
+  Result: victory
+  Participants:
+    - Neo-Kamek
+    - SSLRranma
+    - TIASIAN
+    - Ashton
+    - Dragoshi
+  Ref: H_Cuz
 - Boss: Giegue and the Starmen (rematch)
   Date: 2008-12-18
   Result: victory
@@ -3889,6 +4362,20 @@
   Date: 2008-12-23
   Result: victory
   Ref: Neo-Kamek
+- Boss: Demon Wall
+  Date: 2008-12-29
+  Result: victory
+  Participants:
+    - SSLRranma
+    - Locos Docos
+  Ref: H_Cuz
+- Boss: Dark Elf
+  Date: 2008-12-29
+  Result: victory
+  Participants:
+    - Cyber Black Yoshi
+    - Dragoshi
+  Ref: H_Cuz
 - Boss: Nala (Tabuu)
   Date: 2009-01-08
   Result: victory
